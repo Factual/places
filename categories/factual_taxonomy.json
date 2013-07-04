@@ -8,6 +8,7 @@
       "it": "Luoghi Factual",
       "jp": "Factual 場所",
       "kr": "Factual 장소",
+      "pt": "Lugares Factual",
       "zh-hant": "Factual 場所",
       "zh": "Factual 场所"
     },
@@ -25,6 +26,7 @@
       "it": "Autovetture",
       "jp": "自動車",
       "kr": "자동차",
+      "pt": "Automóvel",
       "zh-hant": "機動車",
       "zh": "机动车"
     },
@@ -42,6 +44,7 @@
       "it": "Periti Automobilistici",
       "jp": "車鑑定士",
       "kr": "자동차 감정 사",
+      "pt": "Peritos de Automóveis",
       "zh-hant": "汽車估價師",
       "zh": "汽车估价师"
     },
@@ -59,6 +62,7 @@
       "it": "Vendite e Leasing",
       "jp": "自動車ディーラー、リース",
       "kr": "자동차 딜러 및 임대",
+      "pt": "Aluguer e Leasing de Automóveis",
       "zh-hant": "汽車經銷和租賃",
       "zh": "汽车经销和租赁"
     },
@@ -76,6 +80,7 @@
       "it": "Auto Usate",
       "jp": "中古車",
       "kr": "중고차",
+      "pt": "Carros Usados",
       "zh-hant": "二手車",
       "zh": "二手车"
     },
@@ -93,6 +98,7 @@
       "it": "Accessori e Ricambi Auto",
       "jp": "カー用品",
       "kr": "자동차 부품 및 악세사리",
+      "pt": "Partes de Automóveis e Acessórios",
       "zh-hant": "汽車零配件",
       "zh": "汽车零配件"
     },
@@ -110,6 +116,7 @@
       "it": "Autolavaggio e Ritocchi",
       "jp": "洗車と清掃、手入れ",
       "kr": "세차 및 상세한, 세부적인",
+      "pt": "Lavagem e Limpeza Automóvel",
       "zh-hant": "汽車清潔和美容",
       "zh": "汽车清洁和美容"
     },
@@ -127,6 +134,7 @@
       "it": "Auto D'epoca",
       "jp": "クラシックとアンティークの車",
       "kr": "고 전적인과 골동품 자동차",
+      "pt": "Carros Clássicos e Antigos",
       "zh-hant": "經典或古董車",
       "zh": "经典或古董车"
     },
@@ -144,6 +152,7 @@
       "it": "Riparazione e Manutenzione",
       "jp": "メンテナンスと修理",
       "kr": "정비 및 수리",
+      "pt": "Manutenção e Reparação",
       "zh-hant": "維護和修理",
       "zh": "维护和修理"
     },
@@ -161,6 +170,7 @@
       "it": "Olio e Lubrificanti",
       "jp": "オイル・潤滑油",
       "kr": "오일 및 윤 활 유",
+      "pt": "Óleo e Lubrificante",
       "zh-hant": "機油和潤滑油",
       "zh": "机油和润滑油"
     },
@@ -178,6 +188,7 @@
       "it": "Controllo Emissioni",
       "jp": "スモッグテスト",
       "kr": "스모그 확인",
+      "pt": "Controlo de Poluição",
       "zh-hant": "煙霧檢測",
       "zh": "烟雾检测"
     },
@@ -195,6 +206,7 @@
       "it": "Pneumatici",
       "jp": "タイヤ",
       "kr": "타이어",
+      "pt": "Pneus",
       "zh-hant": "輪胎",
       "zh": "轮胎"
     },
@@ -212,6 +224,7 @@
       "it": "Trasmissioni",
       "jp": "トランス ミッション",
       "kr": "변속기",
+      "pt": "Transmissões",
       "zh-hant": "傳輸",
       "zh": "传输"
     },
@@ -229,6 +242,7 @@
       "it": "Motocicli, Ciclomotori e Scooter",
       "jp": "オートバイ、モペット、スクーター",
       "kr": "오토바이, 모페드와 스쿠터",
+      "pt": "Motociclos, Ciclomotores e Velocípedes",
       "zh-hant": "摩托車、輕便摩托車和踏板車",
       "zh": "摩托车、轻便摩托车和踏板车"
     },
@@ -246,6 +260,7 @@
       "it": "Riparazione",
       "jp": "修理",
       "kr": "수리",
+      "pt": "Reparação",
       "zh-hant": "維修",
       "zh": "维修"
     },
@@ -263,6 +278,7 @@
       "it": "Vendita",
       "jp": "販売",
       "kr": "판매",
+      "pt": "Vendas",
       "zh-hant": "銷售",
       "zh": "销售"
     },
@@ -280,6 +296,7 @@
       "it": "Roulotte e Camper",
       "jp": "RVsおよびキャンピングカー",
       "kr": "캠핑카 및 이동 주택차",
+      "pt": "Roulottes e Autocaravanas",
       "zh-hant": "房車",
       "zh": "房车"
     },
@@ -297,6 +314,7 @@
       "it": "Centro di Rottamazione",
       "jp": "廃車置き場",
       "kr": "폐차장",
+      "pt": "Ferro-velho",
       "zh-hant": "廢車場",
       "zh": "废车场"
     },
@@ -314,6 +332,7 @@
       "it": "Carro Attrezzi",
       "jp": "けん引",
       "kr": "견인",
+      "pt": "Reboque",
       "zh-hant": "拖車",
       "zh": "拖车"
     },
@@ -331,6 +350,7 @@
       "it": "Servizi Locali e Pubblica Amministrazione",
       "jp": "地域社会と政府",
       "kr": "지역 사회와 정부",
+      "pt": "Comunidade e Governo",
       "zh-hant": "社區和政府",
       "zh": "社区和政府"
     },
@@ -348,6 +368,7 @@
       "it": "Rifugi e Protezione Animali",
       "jp": "動物のシェルターと愛護団体",
       "kr": "동물 보호소 및 동물 보호 협회",
+      "pt": "Abrigos de Animais e Associações Humanitárias",
       "zh-hant": "動物庇護所和人道協會",
       "zh": "动物庇护所和人道协会"
     },
@@ -365,6 +386,7 @@
       "it": "Cimiteri",
       "jp": "墓地",
       "kr": "묘지",
+      "pt": "Cemitérios",
       "zh-hant": "墓地",
       "zh": "墓地"
     },
@@ -382,6 +404,7 @@
       "it": "Asili Nido e Scuole Materne",
       "jp": "保育園と幼稚園",
       "kr": "보육 및 유치원",
+      "pt": "Creches e Jardins de Infância",
       "zh-hant": "托兒所和幼兒園",
       "zh": "托儿所和幼儿园"
     },
@@ -399,6 +422,7 @@
       "it": "Assistenza Disabili",
       "jp": "身体障害者支援",
       "kr": "장애인 복지",
+      "pt": "Serviços de Apoio a Pessoas com Necessidades Especiais",
       "zh-hant": "殘障人士服務中心",
       "zh": "残障人士服务中心"
     },
@@ -416,6 +440,7 @@
       "it": "Assistenza Alcolisti e Tossicodipendenti",
       "jp": "薬物およびアルコール中毒患者支援",
       "kr": "약물 및 알코올 서비스",
+      "pt": "Serviços de Tratamento de Alcoolismo e Toxicodependência",
       "zh-hant": "戒毒和戒酒中心",
       "zh": "戒毒和戒酒中心"
     },
@@ -433,6 +458,7 @@
       "it": "Istruzione",
       "jp": "教育",
       "kr": "교육",
+      "pt": "Ensino",
       "zh-hant": "教育",
       "zh": "教育"
     },
@@ -450,6 +476,7 @@
       "it": "Corsi Per Adulti",
       "jp": "成人教育",
       "kr": "성인 교육",
+      "pt": "Ensino para Adultos",
       "zh-hant": "成人教育",
       "zh": "成人教育"
     },
@@ -467,6 +494,7 @@
       "it": "Scuole e Corsi D'arte",
       "jp": "美術教室と学校",
       "kr": "미술 수업 및 학교",
+      "pt": "Escolas de Arte",
       "zh-hant": "藝術類課程和院校",
       "zh": "艺术类课程和院校"
     },
@@ -484,6 +512,7 @@
       "it": "Università",
       "jp": "大学",
       "kr": "전문 대학 및 대학",
+      "pt": "Faculdades, Universidades e Institutos Superiores",
       "zh-hant": "高等院校",
       "zh": "高等院校"
     },
@@ -501,6 +530,7 @@
       "it": "Corsi di Informatica",
       "jp": "コンピュータ トレーニング",
       "kr": "컴퓨터 교육",
+      "pt": "Formação em Informática",
       "zh-hant": "計算機培訓",
       "zh": "计算机培训"
     },
@@ -518,6 +548,7 @@
       "it": "Scuole e Corsi di Cucina",
       "jp": "料理教室、調理師学校",
       "kr": "요리 수업 및 학교",
+      "pt": "Escolas de Culinária",
       "zh-hant": "烹飪課程和學校",
       "zh": "烹饪课程和学校"
     },
@@ -535,6 +566,7 @@
       "it": "Autoscuole",
       "jp": "教習所",
       "kr": "운전 학교",
+      "pt": "Escolas de Condução",
       "zh-hant": "駕駛學校",
       "zh": "驾驶学校"
     },
@@ -552,6 +584,7 @@
       "it": "Gruppi Universitari",
       "jp": "男子・女子社交クラブ",
       "kr": "남학생과 여학생 클럽",
+      "pt": "Repúblicas",
       "zh-hant": "兄弟會和姐妹會",
       "zh": "兄弟会和姐妹会"
     },
@@ -569,6 +602,7 @@
       "it": "Scuole Primarie e Secondarie",
       "jp": "小学校、中学／高等学校",
       "kr": "유치원",
+      "pt": "Escolas Primárias e Secundárias",
       "zh-hant": "中小學",
       "zh": "中小学"
     },
@@ -586,6 +620,7 @@
       "it": "Lezioni Private e Tutoring",
       "jp": "家庭教師と教育サービス",
       "kr": "개인 교습 및 교육 서비스",
+      "pt": "Cursos Particulares e Serviços Educativos",
       "zh-hant": "輔導和補習機構",
       "zh": "辅导和补习机构"
     },
@@ -603,6 +638,7 @@
       "it": "Scuole Professionali",
       "jp": "職業専門学校",
       "kr": "직업 학교",
+      "pt": "Escolas Profissionais",
       "zh-hant": "職業學校",
       "zh": "职业学校"
     },
@@ -620,6 +656,7 @@
       "it": "Agenzie e Dipartimenti Amministrativi",
       "jp": "政府省庁／機関",
       "kr": "정부 부처 및 기관",
+      "pt": "Ministérios e Organismos Governamentais",
       "zh-hant": "政府部門和機構",
       "zh": "政府部门和机构"
     },
@@ -637,6 +674,7 @@
       "it": "Lobbisti",
       "jp": "政府ロビイスト",
       "kr": "정부 로비스트",
+      "pt": "Lobbyistas Governamentais",
       "zh-hant": "政府說客",
       "zh": "政府说客"
     },
@@ -654,6 +692,7 @@
       "it": "Case Popolari e Rifugi Per Senzatetto",
       "jp": "住宅支援と施設",
       "kr": "주택 지원 및 대피 소",
+      "pt": "Assistência Habitacional e Abrigos",
       "zh-hant": "住房援助和收容所",
       "zh": "住房援助和收容所"
     },
@@ -671,6 +710,7 @@
       "it": "Forze Dell'ordine e Della Sicurezza Pubblica",
       "jp": "公安",
       "kr": "법 집행 기관 및 공공 안전",
+      "pt": "Forças de Segurança e Ordem Pública",
       "zh-hant": "執法和公眾安全",
       "zh": "执法和公众安全"
     },
@@ -688,6 +728,7 @@
       "it": "Servizi di Emergenza",
       "jp": "救急",
       "kr": "구조 서비스",
+      "pt": "Serviços de Socorro",
       "zh-hant": "救援服務",
       "zh": "救援服务"
     },
@@ -705,6 +746,7 @@
       "it": "Caserme Vigili Del Fuoco",
       "jp": "消防署",
       "kr": "소방소",
+      "pt": "Quarteis de Bombeiros",
       "zh-hant": "消防局",
       "zh": "消防局"
     },
@@ -722,6 +764,7 @@
       "it": "Caserme di Polizia",
       "jp": "警察署",
       "kr": "경찰서",
+      "pt": "Esquadras de Polícia",
       "zh-hant": "警署",
       "zh": "警署"
     },
@@ -739,6 +782,7 @@
       "it": "Biblioteche",
       "jp": "図書館",
       "kr": "도서관",
+      "pt": "Bibliotecas",
       "zh-hant": "圖書館",
       "zh": "图书馆"
     },
@@ -756,6 +800,7 @@
       "it": "Forze Armate",
       "jp": "自衛隊",
       "kr": "군사",
+      "pt": "Forças Armadas",
       "zh-hant": "軍事",
       "zh": "军事"
     },
@@ -773,6 +818,7 @@
       "it": "Basi Militari",
       "jp": "基地",
       "kr": "기지",
+      "pt": "Bases Militares",
       "zh-hant": "基地",
       "zh": "基地"
     },
@@ -790,6 +836,7 @@
       "it": "Organizzazioni e Associazioni",
       "jp": "組織および団体",
       "kr": "기관 및 단체",
+      "pt": "Organizações e Associações",
       "zh-hant": "組織和協會",
       "zh": "组织和协会"
     },
@@ -807,6 +854,7 @@
       "it": "Enti di Beneficenza e Non-Profit",
       "jp": "慈善団体、非営利団体",
       "kr": "비-이익 및 자선 단체",
+      "pt": "Organizações de Beneficiência e sem Fim Lucrativo",
       "zh-hant": "慈善和非盈利性組織",
       "zh": "慈善和非盈利性组织"
     },
@@ -824,6 +872,7 @@
       "it": "Tutela Dell'ambiente",
       "jp": "環境",
       "kr": "환경",
+      "pt": "Ambiente",
       "zh-hant": "環保組織",
       "zh": "环保组织"
     },
@@ -841,6 +890,7 @@
       "it": "Organizzazioni Giovanili",
       "jp": "青少年団体",
       "kr": "청소년 단체",
+      "pt": "Organizações Juvenis",
       "zh-hant": "青年組織",
       "zh": "青年组织"
     },
@@ -858,6 +908,7 @@
       "it": "Uffici Postali",
       "jp": "郵便局",
       "kr": "우체국",
+      "pt": "Postos de Correio",
       "zh-hant": "郵政局",
       "zh": "邮政局"
     },
@@ -875,6 +926,7 @@
       "it": "Servizi Pubblici e Sociali",
       "jp": "公共サービス",
       "kr": "공공 및 사회 서비스",
+      "pt": "Serviços Públicos e Sociais",
       "zh-hant": "公共及社會服務",
       "zh": "公共及社会服务"
     },
@@ -892,6 +944,7 @@
       "it": "Centri di Culto e Servizi Religiosi",
       "jp": "宗教",
       "kr": "종교",
+      "pt": "Religião",
       "zh-hant": "宗教",
       "zh": "宗教"
     },
@@ -909,6 +962,7 @@
       "it": "Templi Buddisti",
       "jp": "仏教寺院",
       "kr": "불교 사원",
+      "pt": "Templos Budistas",
       "zh-hant": "佛教寺廟",
       "zh": "佛教寺庙"
     },
@@ -926,6 +980,7 @@
       "it": "Chiese",
       "jp": "教会",
       "kr": "교회",
+      "pt": "Igrejas",
       "zh-hant": "教堂",
       "zh": "教堂"
     },
@@ -943,6 +998,7 @@
       "it": "Templi Hindu",
       "jp": "ヒンズー教教会",
       "kr": "힌두교 사원",
+      "pt": "Templos Hindus",
       "zh-hant": "印度教寺廟",
       "zh": "印度教寺庙"
     },
@@ -960,6 +1016,7 @@
       "it": "Moschee",
       "jp": "モスク",
       "kr": "사원",
+      "pt": "Mesquitas",
       "zh-hant": "清真寺",
       "zh": "清真寺"
     },
@@ -977,6 +1034,7 @@
       "it": "Sinagoghe",
       "jp": "ユダヤ教教会",
       "kr": "회당",
+      "pt": "Sinagogas",
       "zh-hant": "猶太教堂",
       "zh": "犹太教堂"
     },
@@ -994,6 +1052,7 @@
       "it": "Servizi Per Anziani",
       "jp": "老人福祉サービス",
       "kr": "노인 서비스",
+      "pt": "Serviços de Apoio a Pessoas da Terceira Idade",
       "zh-hant": "老年人服務",
       "zh": "老年人服务"
     },
@@ -1011,6 +1070,7 @@
       "it": "Pensioni",
       "jp": "定年",
       "kr": "은퇴",
+      "pt": "Reforma",
       "zh-hant": "退休服務",
       "zh": "退休服务"
     },
@@ -1028,6 +1088,7 @@
       "it": "Gas, Luce, Acqua",
       "jp": "電気／ガス会社",
       "kr": "공과금 회사",
+      "pt": "Empresas de Serviços Públicos",
       "zh-hant": "公用事業公司",
       "zh": "公用事业公司"
     },
@@ -1045,6 +1106,7 @@
       "it": "Assistenza Sanitaria",
       "jp": "医療",
       "kr": "건강 관리",
+      "pt": "Assistência Médica e Sanitária",
       "zh-hant": "醫療保健",
       "zh": "医疗保健"
     },
@@ -1062,6 +1124,7 @@
       "it": "Risorse Per Malati di Aids",
       "jp": "エイズ",
       "kr": "에이즈 자원",
+      "pt": "Recursos relacionados com SIDA",
       "zh-hant": "艾滋病資源",
       "zh": "艾滋病资源"
     },
@@ -1079,6 +1142,7 @@
       "it": "Assistito Servizi Viventi",
       "jp": "介護サービス",
       "kr": "생활 서비스 지원",
+      "pt": "Serviços de Assistência Pessoal",
       "zh-hant": "生活輔助服務",
       "zh": "生活辅助服务"
     },
@@ -1096,6 +1160,7 @@
       "it": "Badanti (assistenti Alla Persona)",
       "jp": "介護士",
       "kr": "간병인",
+      "pt": "Assostência à Pessoa",
       "zh-hant": "護工",
       "zh": "护工"
     },
@@ -1113,6 +1178,7 @@
       "it": "Residenze Per Anziani",
       "jp": "施設および特別養護老人ホーム",
       "kr": "양로원",
+      "pt": "Lares e Casas de Repouso",
       "zh-hant": "護理院和護理機構",
       "zh": "护理院和护理机构"
     },
@@ -1130,6 +1196,7 @@
       "it": "Centri e Banche Del Sangue",
       "jp": "血液バンク ・ センター",
       "kr": "혈액 은행 및 센터",
+      "pt": "Centros de Recolha e Bancos de Sangue",
       "zh-hant": "血庫和血液中心",
       "zh": "血库和血液中心"
     },
@@ -1147,6 +1214,7 @@
       "it": "Chiropratici",
       "jp": "カイロプラクティック",
       "kr": "정형",
+      "pt": "Quiropráticos",
       "zh-hant": "脊醫",
       "zh": "脊医"
     },
@@ -1164,6 +1232,7 @@
       "it": "Dentisti",
       "jp": "歯科医",
       "kr": "치과",
+      "pt": "Dentistas",
       "zh-hant": "牙醫",
       "zh": "牙医"
     },
@@ -1181,6 +1250,7 @@
       "it": "Servizi di Emergenza",
       "jp": "救急サービス",
       "kr": "응급 서비스",
+      "pt": "Serviços de Emergência",
       "zh-hant": "緊急救助",
       "zh": "紧急救助"
     },
@@ -1198,6 +1268,7 @@
       "it": "Ambulanze",
       "jp": "救急車",
       "kr": "구급차",
+      "pt": "Ambulância",
       "zh-hant": "救護車",
       "zh": "救护车"
     },
@@ -1215,6 +1286,7 @@
       "it": "Medicina Olistica, Alternativa e Naturopatica",
       "jp": "東洋および自然療法医学",
       "kr": "전체론적 의학, 자연요법",
+      "pt": "Medicinas Alternativas e Naturais",
       "zh-hant": "整體療法、替代療法和自然療法",
       "zh": "整体疗法、替代疗法和自然疗法"
     },
@@ -1232,6 +1304,7 @@
       "it": "Agopuntura",
       "jp": "鍼治療",
       "kr": "침술",
+      "pt": "Acupunctura",
       "zh-hant": "針灸",
       "zh": "针灸"
     },
@@ -1249,6 +1322,7 @@
       "it": "Ospedali, Cliniche e Centri Medici",
       "jp": "病院、診療所、医療センター",
       "kr": "병원 및 의료 센터",
+      "pt": "Hospitais, Clínicas e Centros Médicos",
       "zh-hant": "醫院、診所和醫療中心",
       "zh": "医院、诊所和医疗中心"
     },
@@ -1266,6 +1340,7 @@
       "it": "Forniture Mediche e Laboratori",
       "jp": "医療用品・ ラボ",
       "kr": "의료 용품 및 실험실",
+      "pt": "Material Médico e Laboratórios",
       "zh-hant": "醫療用品和實驗室",
       "zh": "医疗用品和实验室"
     },
@@ -1283,6 +1358,7 @@
       "it": "Salute Mentale",
       "jp": "精神科",
       "kr": "정신 건강",
+      "pt": "Saúde Mental",
       "zh-hant": "心理健康",
       "zh": "心理健康"
     },
@@ -1300,6 +1376,7 @@
       "it": "Consulenza e Terapia",
       "jp": "カウンセリング ・ セラピー",
       "kr": "상담 및 치료",
+      "pt": "Aconselhamento e Terapia",
       "zh-hant": "心理咨詢和治療",
       "zh": "心理咨询和治疗"
     },
@@ -1317,6 +1394,7 @@
       "it": "Psicologi",
       "jp": "心理学者",
       "kr": "심리학자",
+      "pt": "Psicólogos",
       "zh-hant": "心理學家",
       "zh": "心理学家"
     },
@@ -1334,6 +1412,7 @@
       "it": "Infermieri",
       "jp": "看護師",
       "kr": "간호사",
+      "pt": "Enfermeiros",
       "zh-hant": "護士",
       "zh": "护士"
     },
@@ -1351,6 +1430,7 @@
       "it": "Farmacie",
       "jp": "薬局",
       "kr": "약국",
+      "pt": "Farmácias",
       "zh-hant": "藥房",
       "zh": "药房"
     },
@@ -1368,6 +1448,7 @@
       "it": "Terapia Fisica e Riabilitazione",
       "jp": "理学療法、リハビリ",
       "kr": "물리 치료 및 재활",
+      "pt": "Terapia Física e Reabilitação",
       "zh-hant": "物理治療和康復治療",
       "zh": "物理治疗和康复治疗"
     },
@@ -1385,6 +1466,7 @@
       "it": "Medicina Dello Sport",
       "jp": "スポーツ医学",
       "kr": "스포츠 의학",
+      "pt": "Medicina Desportiva",
       "zh-hant": "運動醫學",
       "zh": "运动医学"
     },
@@ -1402,6 +1484,7 @@
       "it": "Medici",
       "jp": "医師",
       "kr": "의사",
+      "pt": "Médicos",
       "zh-hant": "醫生",
       "zh": "医生"
     },
@@ -1419,6 +1502,7 @@
       "it": "Anestesisti",
       "jp": "麻酔科",
       "kr": "마취의사",
+      "pt": "Anestesistas",
       "zh-hant": "麻醉師",
       "zh": "麻醉师"
     },
@@ -1436,6 +1520,7 @@
       "it": "Cardiologi",
       "jp": "心臓外科医",
       "kr": "심장",
+      "pt": "Cardiologistas",
       "zh-hant": "心臟科",
       "zh": "心脏科"
     },
@@ -1453,6 +1538,7 @@
       "it": "Dermatologi",
       "jp": "皮膚科医",
       "kr": "피부과",
+      "pt": "Dermatologistas",
       "zh-hant": "皮膚科",
       "zh": "皮肤科"
     },
@@ -1470,6 +1556,7 @@
       "it": "Otorinolaringoiatri",
       "jp": "耳鼻咽喉科",
       "kr": "귀, 코와 목",
+      "pt": "Otorrinolaringologistas",
       "zh-hant": "耳鼻喉科",
       "zh": "耳鼻喉科"
     },
@@ -1487,6 +1574,7 @@
       "it": "Medici di Base",
       "jp": "内科一般",
       "kr": "가정 의학",
+      "pt": "Médicos de Família",
       "zh-hant": "家庭醫生",
       "zh": "家庭医生"
     },
@@ -1504,6 +1592,7 @@
       "it": "Gastroenterologi",
       "jp": "消化器科",
       "kr": "위장병학",
+      "pt": "Gastrenterologistas",
       "zh-hant": "消化科",
       "zh": "消化科"
     },
@@ -1521,6 +1610,7 @@
       "it": "Chirurghi Generali",
       "jp": "外科",
       "kr": "일반 외과",
+      "pt": "Cirurgia Geral",
       "zh-hant": "普外科",
       "zh": "普外科"
     },
@@ -1538,6 +1628,7 @@
       "it": "Medicina Interna",
       "jp": "内科",
       "kr": "내과",
+      "pt": "Medicina Interna",
       "zh-hant": "內科",
       "zh": "内科"
     },
@@ -1555,6 +1646,7 @@
       "it": "Neurologi",
       "jp": "神経科医",
       "kr": "신경과",
+      "pt": "Neurologistas",
       "zh-hant": "神經科",
       "zh": "神经科"
     },
@@ -1572,6 +1664,7 @@
       "it": "Ostetrici e Ginecologi",
       "jp": "産婦人科",
       "kr": "산부인과 부인과",
+      "pt": "Obstetras e Ginecologistas",
       "zh-hant": "婦產科",
       "zh": "妇产科"
     },
@@ -1589,6 +1682,7 @@
       "it": "Oncologi",
       "jp": "腫瘍",
       "kr": "종양학",
+      "pt": "Oncologistas",
       "zh-hant": "腫瘤科",
       "zh": "肿瘤科"
     },
@@ -1606,6 +1700,7 @@
       "it": "Oculisti",
       "jp": "眼科医",
       "kr": "안과",
+      "pt": "Oftalmologistas",
       "zh-hant": "眼科",
       "zh": "眼科"
     },
@@ -1623,6 +1718,7 @@
       "it": "Chirurghi Ortopedici",
       "jp": "整形外科",
       "kr": "정형 외과",
+      "pt": "Cirurgiões Ortopédicos",
       "zh-hant": "骨科",
       "zh": "骨科"
     },
@@ -1640,6 +1736,7 @@
       "it": "Patologi",
       "jp": "病理",
       "kr": "병리학",
+      "pt": "Patologistas",
       "zh-hant": "病理科",
       "zh": "病理科"
     },
@@ -1657,6 +1754,7 @@
       "it": "Pediatri",
       "jp": "小児科医",
       "kr": "소아과",
+      "pt": "Pediatras",
       "zh-hant": "兒科",
       "zh": "儿科"
     },
@@ -1674,6 +1772,7 @@
       "it": "Chirurghi Plastici",
       "jp": "整形外科",
       "kr": "성형 외과",
+      "pt": "Cirurgiões Plásticos",
       "zh-hant": "整形外科",
       "zh": "整形外科"
     },
@@ -1691,6 +1790,7 @@
       "it": "Psichiatri",
       "jp": "精神科医",
       "kr": "정신과",
+      "pt": "Psiquiatras",
       "zh-hant": "精神科",
       "zh": "精神科"
     },
@@ -1708,6 +1808,7 @@
       "it": "Radiologi",
       "jp": "レントゲン技師",
       "kr": "방사선",
+      "pt": "Radiologistas",
       "zh-hant": "放射科",
       "zh": "放射科"
     },
@@ -1725,6 +1826,7 @@
       "it": "Pneumologi",
       "jp": "呼吸器科",
       "kr": "호흡기",
+      "pt": "Pneumologia",
       "zh-hant": "呼吸科",
       "zh": "呼吸科"
     },
@@ -1742,6 +1844,7 @@
       "it": "Urologi",
       "jp": "泌尿器科",
       "kr": "비뇨기과",
+      "pt": "Urologistas",
       "zh-hant": "泌尿科",
       "zh": "泌尿科"
     },
@@ -1759,6 +1862,7 @@
       "it": "Podologi",
       "jp": "足治療医",
       "kr": "발병 전문가",
+      "pt": "Podólogos",
       "zh-hant": "足病診療師",
       "zh": "足病诊疗师"
     },
@@ -1776,6 +1880,7 @@
       "it": "Gravidanza e Salute Sessuale",
       "jp": "妊娠および",
       "kr": "임신과 성적인 건강",
+      "pt": "Gravidez e Saúde Sexual",
       "zh-hant": "懷孕和性健康",
       "zh": "怀孕和性健康"
     },
@@ -1793,6 +1898,7 @@
       "it": "Dimagrimento e Nutrizionisti",
       "jp": "減量と栄養士",
       "kr": "체중 감량 및 영양사",
+      "pt": "Perda de Peso e Nutricionistas",
       "zh-hant": "減肥和營養學家",
       "zh": "减肥和营养学家"
     },
@@ -1810,6 +1916,7 @@
       "it": "Luoghi di Interesse",
       "jp": "名所",
       "kr": "명소",
+      "pt": "Marcos",
       "zh-hant": "地標",
       "zh": "地标"
     },
@@ -1827,6 +1934,7 @@
       "it": "Edifici",
       "jp": "建物及び構築物",
       "kr": "건물 및 구조",
+      "pt": "Edifícios e Estruturas",
       "zh-hant": "建築和工程",
       "zh": "建筑和工程"
     },
@@ -1844,6 +1952,7 @@
       "it": "Giardini Pubblici e Parchi",
       "jp": "庭園",
       "kr": "정원",
+      "pt": "Jardins",
       "zh-hant": "園林",
       "zh": "园林"
     },
@@ -1861,6 +1970,7 @@
       "it": "Siti Storici e Protetti",
       "jp": "指定文化財",
       "kr": "역사 및 보호 된 장소",
+      "pt": "Lugares Históricos e Protegidos",
       "zh-hant": "古跡和保護性景點",
       "zh": "古迹和保护性景点"
     },
@@ -1878,6 +1988,7 @@
       "it": "Monumenti e Memoriali",
       "jp": "記念碑",
       "kr": "기념물 및 기념관",
+      "pt": "Monumentos Históricos e Comemorativos",
       "zh-hant": "紀念碑和紀念館",
       "zh": "纪念碑和纪念馆"
     },
@@ -1895,6 +2006,7 @@
       "it": "Naturali",
       "jp": "自然",
       "kr": "자연",
+      "pt": "Natureza",
       "zh-hant": "自然景觀",
       "zh": "自然景观"
     },
@@ -1912,6 +2024,7 @@
       "it": "Spiagge",
       "jp": "海岸",
       "kr": "해수욕장",
+      "pt": "Praias",
       "zh-hant": "海灘",
       "zh": "海滩"
     },
@@ -1929,6 +2042,7 @@
       "it": "Montagne",
       "jp": "山",
       "kr": "산",
+      "pt": "Montanhas",
       "zh-hant": "山",
       "zh": "山"
     },
@@ -1946,6 +2060,7 @@
       "it": "Foreste",
       "jp": "森",
       "kr": "숲",
+      "pt": "Florestas",
       "zh-hant": "森林",
       "zh": "森林"
     },
@@ -1963,6 +2078,7 @@
       "it": "Laghi",
       "jp": "湖",
       "kr": "호수",
+      "pt": "Lagos",
       "zh-hant": "湖",
       "zh": "湖"
     },
@@ -1980,6 +2096,7 @@
       "it": "Fiumi",
       "jp": "川",
       "kr": "강",
+      "pt": "Rios",
       "zh-hant": "河流",
       "zh": "河流"
     },
@@ -1997,6 +2114,7 @@
       "it": "Parchi",
       "jp": "公園",
       "kr": "공원",
+      "pt": "Parques",
       "zh-hant": "公園",
       "zh": "公园"
     },
@@ -2014,6 +2132,7 @@
       "it": "Parchi Naturali",
       "jp": "自然公園",
       "kr": "자연 공원",
+      "pt": "Parques Naturais",
       "zh-hant": "自然公園",
       "zh": "自然公园"
     },
@@ -2031,6 +2150,7 @@
       "it": "Aree Pic-nic",
       "jp": "ピクニック",
       "kr": "소풍 장소",
+      "pt": "Parques de Merendas",
       "zh-hant": "野餐區",
       "zh": "野餐区"
     },
@@ -2048,6 +2168,7 @@
       "it": "Parchi Giochi",
       "jp": "遊び場",
       "kr": "놀이터",
+      "pt": "Parques Infantis",
       "zh-hant": "遊樂園",
       "zh": "游乐园"
     },
@@ -2065,6 +2186,7 @@
       "it": "Parchi Urbani",
       "jp": "公園",
       "kr": "도시 공원",
+      "pt": "Parques Urbanos",
       "zh-hant": "城市公園",
       "zh": "城市公园"
     },
@@ -2082,6 +2204,7 @@
       "it": "Vendita Al Dettaglio",
       "jp": "小売",
       "kr": "소매",
+      "pt": "Venda a Retalho",
       "zh-hant": "零售",
       "zh": "零售"
     },
@@ -2099,6 +2222,7 @@
       "it": "Sexy Shop",
       "jp": "紳士、婦人",
       "kr": "성인",
+      "pt": "Adulto",
       "zh-hant": "成人用品",
       "zh": "成人用品"
     },
@@ -2116,6 +2240,7 @@
       "it": "Antiquariato",
       "jp": "骨董品",
       "kr": "골동품",
+      "pt": "Antiguidades",
       "zh-hant": "古董",
       "zh": "古董"
     },
@@ -2133,6 +2258,7 @@
       "it": "Hobby e Progettistica",
       "jp": "美術・工芸",
       "kr": "예술 및 공예",
+      "pt": "Artesanato",
       "zh-hant": "工藝品",
       "zh": "工艺品"
     },
@@ -2150,6 +2276,7 @@
       "it": "Aste",
       "jp": "オークション",
       "kr": "경매",
+      "pt": "Leilões",
       "zh-hant": "拍賣會",
       "zh": "拍卖会"
     },
@@ -2167,6 +2294,7 @@
       "it": "Prodotti di Bellezza",
       "jp": "美容製品",
       "kr": "미용 제품",
+      "pt": "Produtos de Beleza",
       "zh-hant": "美容產品",
       "zh": "美容产品"
     },
@@ -2184,6 +2312,7 @@
       "it": "Biciclette",
       "jp": "自転車",
       "kr": "자전거",
+      "pt": "Bicicletas",
       "zh-hant": "自行車",
       "zh": "自行车"
     },
@@ -2201,6 +2330,7 @@
       "it": "Librerie",
       "jp": "書店",
       "kr": "서점",
+      "pt": "Livrarias",
       "zh-hant": "書店",
       "zh": "书店"
     },
@@ -2218,6 +2348,7 @@
       "it": "Articoli di Cancelleria",
       "jp": "カードや文房具",
       "kr": "카드와 편지지",
+      "pt": "Artigos de Papelaria",
       "zh-hant": "賀卡和文具",
       "zh": "贺卡和文具"
     },
@@ -2235,6 +2366,7 @@
       "it": "Bambini",
       "jp": "子供",
       "kr": "어린이",
+      "pt": "Crianças",
       "zh-hant": "兒童用品",
       "zh": "儿童用品"
     },
@@ -2252,6 +2384,7 @@
       "it": "Computer Ed Elettronica",
       "jp": "コンピューターや電子機器",
       "kr": "컴퓨터 및 전자 제품",
+      "pt": "Informática e Electrónica",
       "zh-hant": "電腦和電子產品",
       "zh": "电脑和电子产品"
     },
@@ -2269,6 +2402,7 @@
       "it": "Fotocamere",
       "jp": "カメラ",
       "kr": "카메라",
+      "pt": "Câmeras",
       "zh-hant": "照相機",
       "zh": "照相机"
     },
@@ -2286,6 +2420,7 @@
       "it": "Telefoni Cellulari",
       "jp": "携帯電話",
       "kr": "휴대 전화",
+      "pt": "Telemóveis",
       "zh-hant": "移動電話",
       "zh": "移动电话"
     },
@@ -2303,6 +2438,7 @@
       "it": "Video Giochi",
       "jp": "ビデオ ゲーム",
       "kr": "비디오 게임",
+      "pt": "Jogos de Vídeo",
       "zh-hant": "電子遊戲",
       "zh": "电子游戏"
     },
@@ -2320,6 +2456,7 @@
       "it": "Forniture Per L'edilizia",
       "jp": "建築資材",
       "kr": "건설 재료",
+      "pt": "Material de Construção",
       "zh-hant": "建築材料",
       "zh": "建筑材料"
     },
@@ -2337,6 +2474,7 @@
       "it": "Tabaccaio",
       "jp": "コンビニ",
       "kr": "편의점",
+      "pt": "Drogarias",
       "zh-hant": "便利店",
       "zh": "便利店"
     },
@@ -2354,6 +2492,7 @@
       "it": "Costumi e Maschere",
       "jp": "衣装",
       "kr": "의상",
+      "pt": "Máscaras e Disfarces",
       "zh-hant": "特殊服裝",
       "zh": "特殊服装"
     },
@@ -2371,6 +2510,7 @@
       "it": "Musica e Danza",
       "jp": "ダンスと音楽",
       "kr": "댄스와 음악",
+      "pt": "Música e Dança",
       "zh-hant": "舞蹈和音樂",
       "zh": "舞蹈和音乐"
     },
@@ -2388,6 +2528,7 @@
       "it": "Grandi Magazzini e Venditori Al Ribasso",
       "jp": "百貨店、ディス カウント ストア",
       "kr": "백화점, 할인점",
+      "pt": "Hipermercados e Grandes Superfícies",
       "zh-hant": "百貨商店和折扣店",
       "zh": "百货商店和折扣店"
     },
@@ -2405,6 +2546,7 @@
       "it": "Moda",
       "jp": "ファッション",
       "kr": "패션",
+      "pt": "Moda",
       "zh-hant": "時尚",
       "zh": "时尚"
     },
@@ -2422,6 +2564,7 @@
       "it": "Abbigliamento e Accessori",
       "jp": "服やアクセサリー",
       "kr": "의류 및 액세서리",
+      "pt": "Roupa e Acessórios",
       "zh-hant": "服裝和配飾",
       "zh": "服装和配饰"
     },
@@ -2439,6 +2582,7 @@
       "it": "Gioielli e Orologi",
       "jp": "宝飾品と時計",
       "kr": "보석, 시계",
+      "pt": "Bijuteria",
       "zh-hant": "珠寶首飾和鐘表",
       "zh": "珠宝首饰和钟表"
     },
@@ -2456,6 +2600,7 @@
       "it": "Calzature",
       "jp": "靴",
       "kr": "신발",
+      "pt": "Sapatos",
       "zh-hant": "鞋",
       "zh": "鞋"
     },
@@ -2473,6 +2618,7 @@
       "it": "Costumi Da Bagno",
       "jp": "水着",
       "kr": "수영복",
+      "pt": "Fatos de Banho",
       "zh-hant": "泳裝",
       "zh": "泳装"
     },
@@ -2490,6 +2636,7 @@
       "it": "Mercati Delle Pulci",
       "jp": "フリー マーケット",
       "kr": "벼룩 시장",
+      "pt": "Mercados",
       "zh-hant": "跳蚤市場",
       "zh": "跳蚤市场"
     },
@@ -2507,6 +2654,7 @@
       "it": "Fioristi",
       "jp": "花屋",
       "kr": "꽃화원",
+      "pt": "Floristas",
       "zh-hant": "花店",
       "zh": "花店"
     },
@@ -2524,6 +2672,7 @@
       "it": "Alimentare e Delle Bevande",
       "jp": "食品と飲料",
       "kr": "식품 및 음료",
+      "pt": "Comida e Bebida",
       "zh-hant": "食品和飲料",
       "zh": "食品和饮料"
     },
@@ -2541,6 +2690,7 @@
       "it": "Birra, Vino e Liquori",
       "jp": "ビール、ワイン、酒類",
       "kr": "맥주, 와인과 술",
+      "pt": "Cerveja, Vinho e Licores",
       "zh-hant": "啤酒、葡萄酒和烈酒",
       "zh": "啤酒、葡萄酒和烈酒"
     },
@@ -2558,6 +2708,7 @@
       "it": "Negozi di Caramelle",
       "jp": "お菓子店",
       "kr": "사탕 상점",
+      "pt": "Confeitarias",
       "zh-hant": "糖果店",
       "zh": "糖果店"
     },
@@ -2575,6 +2726,7 @@
       "it": "Formaggio",
       "jp": "チーズ",
       "kr": "치즈",
+      "pt": "Queijo",
       "zh-hant": "奶酪",
       "zh": "奶酪"
     },
@@ -2592,6 +2744,7 @@
       "it": "Al Cioccolato",
       "jp": "チョコレート",
       "kr": "초콜릿",
+      "pt": "Chocolate",
       "zh-hant": "巧克力",
       "zh": "巧克力"
     },
@@ -2609,6 +2762,7 @@
       "it": "Mercati Ortofrutticoli",
       "jp": "青空市場",
       "kr": "농산물 시장",
+      "pt": "Mercados ao Ar Livre",
       "zh-hant": "農貿市場",
       "zh": "农贸市场"
     },
@@ -2626,6 +2780,7 @@
       "it": "Cibi Salutisi e Dietetici",
       "jp": "健康とダイエット食品",
       "kr": "건강 및 다이어트 식품",
+      "pt": "Comida Saudável e Dietética",
       "zh-hant": "保健和減肥食品",
       "zh": "保健和减肥食品"
     },
@@ -2643,6 +2798,7 @@
       "it": "Kosher",
       "jp": "コーシャ",
       "kr": "코셔",
+      "pt": "Kosher",
       "zh-hant": "猶太食品",
       "zh": "犹太食品"
     },
@@ -2660,6 +2816,7 @@
       "it": "Mobili e Arredamento Interni",
       "jp": "家具とインテリア",
       "kr": "가구 및 집 장식",
+      "pt": "Mobiliário e Decoração para o Lar",
       "zh-hant": "家具和家居裝飾",
       "zh": "家具和家居装饰"
     },
@@ -2677,6 +2834,7 @@
       "it": "Articuli Regalo",
       "jp": "ギフト、ノベルティ",
       "kr": "선물 및 장난감",
+      "pt": "Presentes e Lembranças",
       "zh-hant": "禮品",
       "zh": "礼品"
     },
@@ -2694,6 +2852,7 @@
       "it": "Occhiali e Optometrista",
       "jp": "眼鏡と検眼医",
       "kr": "안경 및 안경사",
+      "pt": "Óptica e Optometria",
       "zh-hant": "眼鏡和驗光",
       "zh": "眼镜和验光"
     },
@@ -2711,6 +2870,7 @@
       "it": "Hobby e Collezionismo",
       "jp": "趣味、収集品",
       "kr": "취미 및 수집품",
+      "pt": "Coleccionismo e Passatempos",
       "zh-hant": "愛好和收藏品",
       "zh": "爱好和收藏品"
     },
@@ -2728,6 +2888,7 @@
       "it": "Valige",
       "jp": "旅行鞄",
       "kr": "여행가방",
+      "pt": "Bagagem e Malas",
       "zh-hant": "行李箱",
       "zh": "行李箱"
     },
@@ -2745,6 +2906,7 @@
       "it": "Musica, Video e DVD",
       "jp": "音楽、ビデオ、DVD",
       "kr": "음악, 비디오 및 DVD",
+      "pt": "Música, Vídeo e DVD",
       "zh-hant": "音樂、視頻和DVD",
       "zh": "音乐、视频和DVD"
     },
@@ -2762,6 +2924,7 @@
       "it": "Edicole",
       "jp": "キオスク",
       "kr": "가판대",
+      "pt": "Quiosques",
       "zh-hant": "報攤",
       "zh": "报摊"
     },
@@ -2779,6 +2942,7 @@
       "it": "Vivai e Centri Giardinaggio",
       "jp": "園芸用品とガーデン センター",
       "kr": "화원",
+      "pt": "Viveiros e Centros de Jardinagem",
       "zh-hant": "苗圃和園藝中心",
       "zh": "苗圃和园艺中心"
     },
@@ -2796,6 +2960,7 @@
       "it": "Outlet",
       "jp": "アウトレット",
       "kr": "아울렛",
+      "pt": "Outlet",
       "zh-hant": "直銷店",
       "zh": "直销店"
     },
@@ -2813,6 +2978,7 @@
       "it": "Monte Dei Pegni",
       "jp": "質屋",
       "kr": "전당포",
+      "pt": "Lojas de Penhores",
       "zh-hant": "當鋪",
       "zh": "当铺"
     },
@@ -2830,6 +2996,7 @@
       "it": "Animali Domestici",
       "jp": "ペット",
       "kr": "애완 동물",
+      "pt": "Animais Domésticos",
       "zh-hant": "寵物用品",
       "zh": "宠物用品"
     },
@@ -2847,6 +3014,7 @@
       "it": "Foto e Cornici",
       "jp": "写真と額",
       "kr": "사진 및 액자",
+      "pt": "Fotografias e Molduras",
       "zh-hant": "照片和相框",
       "zh": "照片和相框"
     },
@@ -2864,6 +3032,7 @@
       "it": "Centri Commerciali",
       "jp": "ショッピング センターやショッピング モール",
       "kr": "쇼핑 센터 및 쇼핑몰",
+      "pt": "Centros Comerciais",
       "zh-hant": "購物中心和商場",
       "zh": "购物中心和商场"
     },
@@ -2881,6 +3050,7 @@
       "it": "Articoli Sportivi",
       "jp": "スポーツ用品",
       "kr": "스포츠 용품",
+      "pt": "Artigos Desportivos",
       "zh-hant": "體育用品",
       "zh": "体育用品"
     },
@@ -2898,6 +3068,7 @@
       "it": "Supermercati e Negozi di Alimentari",
       "jp": "スーパー マーケットや食料品",
       "kr": "슈퍼마켓, 식료품",
+      "pt": "Supermercados e Mercearias",
       "zh-hant": "超級市場和雜貨店",
       "zh": "超级市场和杂货店"
     },
@@ -2915,6 +3086,7 @@
       "it": "Tabaccai",
       "jp": "タバコ",
       "kr": "담배",
+      "pt": "Tabaco",
       "zh-hant": "煙草",
       "zh": "烟草"
     },
@@ -2932,6 +3104,7 @@
       "it": "Giocattoli",
       "jp": "おもちゃ",
       "kr": "완구",
+      "pt": "Brinquedos",
       "zh-hant": "玩具",
       "zh": "玩具"
     },
@@ -2949,6 +3122,7 @@
       "it": "Vintage e Seconda Mano",
       "jp": "ヴィンテージと古着",
       "kr": "골동품 및 중고품",
+      "pt": "Clássicos e em Segunda Mão",
       "zh-hant": "復古和舊貨商店",
       "zh": "复古和旧货商店"
     },
@@ -2966,6 +3140,7 @@
       "it": "Magazzini e Negozi di Commercio All'ingrosso",
       "jp": "倉庫と卸売店",
       "kr": "창고와 도매 매장",
+      "pt": "Armazéns e Feiras Grossistas",
       "zh-hant": "批發量販商店",
       "zh": "批发量贩商店"
     },
@@ -2983,6 +3158,7 @@
       "it": "Nozze e Abiti Da Sposa",
       "jp": "結婚式やブライダル",
       "kr": "결혼식과 신부",
+      "pt": "Casamentos e Acessórios para a Noiva",
       "zh-hant": "婚紗和新娘商店",
       "zh": "婚纱和新娘商店"
     },
@@ -3000,6 +3176,7 @@
       "it": "Servizi e Forniture",
       "jp": "サービス、商品",
       "kr": "서비스 및 용품",
+      "pt": "Serviços e Fornecimentos",
       "zh-hant": "服務和供給",
       "zh": "服务和供给"
     },
@@ -3017,6 +3194,7 @@
       "it": "Consulenza",
       "jp": "ビジネスと戦略コンサルティング",
       "kr": "사업 및 전략 컨설팅",
+      "pt": "Consultoria em Negócios e Estratégia",
       "zh-hant": "商業和戰略咨詢",
       "zh": "商业和战略咨询"
     },
@@ -3034,6 +3212,7 @@
       "it": "Veicoli e Macchinari Industriali",
       "jp": "産業機械と車",
       "kr": "산업 기계 및 차량",
+      "pt": "Máquinas e Veículos Industriais",
       "zh-hant": "工業機械和車輛",
       "zh": "工业机械和车辆"
     },
@@ -3051,6 +3230,7 @@
       "it": "Disboscamento e Segherie",
       "jp": "木材と製材工場",
       "kr": "목재 및 제재소",
+      "pt": "Madeireiros e Serrações",
       "zh-hant": "伐木和鋸木廠",
       "zh": "伐木和锯木厂"
     },
@@ -3068,6 +3248,7 @@
       "it": "Metalli",
       "jp": "金属",
       "kr": "금속",
+      "pt": "Metalurgia",
       "zh-hant": "金屬",
       "zh": "金属"
     },
@@ -3085,6 +3266,7 @@
       "it": "Confezione",
       "jp": "梱包",
       "kr": "포장",
+      "pt": "Embalamento e Empacotamento",
       "zh-hant": "包裝",
       "zh": "包装"
     },
@@ -3102,6 +3284,7 @@
       "it": "Petrolio",
       "jp": "石油",
       "kr": "석유",
+      "pt": "Petróleo",
       "zh-hant": "石油",
       "zh": "石油"
     },
@@ -3119,6 +3302,7 @@
       "it": "Materie Plastiche",
       "jp": "プラスチック",
       "kr": "플라스틱",
+      "pt": "Plásticos",
       "zh-hant": "塑料",
       "zh": "塑料"
     },
@@ -3136,6 +3320,7 @@
       "it": "Ghiaccio e Refrigerazione",
       "jp": "冷蔵と氷",
       "kr": "냉장과 얼음",
+      "pt": "Gelo e Refrigeração",
       "zh-hant": "制冷",
       "zh": "制冷"
     },
@@ -3153,6 +3338,7 @@
       "it": "Gomma",
       "jp": "ゴム",
       "kr": "고무",
+      "pt": "Borracha",
       "zh-hant": "橡膠",
       "zh": "橡胶"
     },
@@ -3170,6 +3356,7 @@
       "it": "Scienza",
       "jp": "科学",
       "kr": "과학",
+      "pt": "Científico",
       "zh-hant": "科研",
       "zh": "科研"
     },
@@ -3187,6 +3374,7 @@
       "it": "Sicurezza",
       "jp": "警備保障",
       "kr": "보안 및 안전",
+      "pt": "Segurança",
       "zh-hant": "安全和安保",
       "zh": "安全和安保"
     },
@@ -3204,6 +3392,7 @@
       "it": "Servizi di Telecomunicazioni",
       "jp": "テレコムサービス",
       "kr": "통신 서비스",
+      "pt": "Serviços de Telecomunicações",
       "zh-hant": "電信服務",
       "zh": "电信服务"
     },
@@ -3221,6 +3410,7 @@
       "it": "Tessile",
       "jp": "繊維",
       "kr": "섬유",
+      "pt": "Têxteis",
       "zh-hant": "紡織",
       "zh": "纺织"
     },
@@ -3238,6 +3428,7 @@
       "it": "Gestione Delle Acque e Dei Rifiuti",
       "jp": "水、廃棄物管理",
       "kr": "물과 폐기물 관리",
+      "pt": "Gestão de Água e de Resíduos",
       "zh-hant": "水和垃圾管理",
       "zh": "水和垃圾管理"
     },
@@ -3255,6 +3446,7 @@
       "it": "Saldatura",
       "jp": "溶接",
       "kr": "용접",
+      "pt": "Soldagem",
       "zh-hant": "焊接",
       "zh": "焊接"
     },
@@ -3272,6 +3464,7 @@
       "it": "Pubblicità e Marketing",
       "jp": "広告とマーケティング",
       "kr": "광고 및 마케팅",
+      "pt": "Publicidade e Marketing",
       "zh-hant": "廣告與營銷",
       "zh": "广告与营销"
     },
@@ -3289,6 +3482,7 @@
       "it": "Agenzie di Pubblicità  e Compritori Media",
       "jp": "広告代理店とメディアのバイヤー",
       "kr": "광고 대행사 및 미디어 구매자",
+      "pt": "Agências de Publicidade e Compradores de Meios de Comunicação",
       "zh-hant": "廣告公司和媒體購買公司",
       "zh": "广告公司和媒体购买公司"
     },
@@ -3306,6 +3500,7 @@
       "it": "Servizi Creativi",
       "jp": "制作会社",
       "kr": "창작 서비스",
+      "pt": "Serviços Criativos",
       "zh-hant": "創意服務",
       "zh": "创意服务"
     },
@@ -3323,6 +3518,7 @@
       "it": "Servizi Marketing Posta Ordinaria Ed Elettronica",
       "jp": "ダイレクト メール、Eマーケティング サービス",
       "kr": "직접 메일 및 이메일 마케팅 서비스",
+      "pt": "Correio e Serviços de Marketing Postal",
       "zh-hant": "信件和電子郵件直銷",
       "zh": "信件和电子邮件直销"
     },
@@ -3340,6 +3536,7 @@
       "it": "Ricerche di Mercato e Consulenza",
       "jp": "市場調査・ コンサルティング",
       "kr": "시장 조사 및 컨설팅",
+      "pt": "Estudo e Consultoria de Mercado",
       "zh-hant": "市場調研和咨詢",
       "zh": "市场调研和咨询"
     },
@@ -3357,6 +3554,7 @@
       "it": "Pubblicità  Online",
       "jp": "オンライン広告",
       "kr": "온라인 광고",
+      "pt": "Publicidade Online",
       "zh-hant": "在線廣告",
       "zh": "在线广告"
     },
@@ -3374,6 +3572,7 @@
       "it": "Pubblicità In Stampa, Tv, Radio, e Cartelloni Pubblicitari",
       "jp": "印刷、テレビ、ラジオ、屋外広告",
       "kr": "인쇄, TV, 라디오 및 옥외 광고",
+      "pt": "Publicidade Impressa, para Televisão, Rádio e Outdoors",
       "zh-hant": "平面、電視、廣播和戶外廣告",
       "zh": "平面、电视、广播和户外广告"
     },
@@ -3391,6 +3590,7 @@
       "it": "Articoli Promozionali",
       "jp": "販促試供品",
       "kr": "홍보 상품",
+      "pt": "Artigos Promocionais",
       "zh-hant": "產品促銷",
       "zh": "产品促销"
     },
@@ -3408,6 +3608,7 @@
       "it": "Pubbliche Relazioni",
       "jp": "広報",
       "kr": "홍보",
+      "pt": "Relações Públicas",
       "zh-hant": "公共關系",
       "zh": "公共关系"
     },
@@ -3425,6 +3626,7 @@
       "it": "Motori di Ricerca Marketing e Ottimizzazione",
       "jp": "検索エンジン マーケティングと最適化",
       "kr": "검색 엔진 마케팅 및 최적화",
+      "pt": "Optimização e Marketing para Motores de Pesquisa",
       "zh-hant": "搜索引擎營銷和優化",
       "zh": "搜索引擎营销和优化"
     },
@@ -3442,6 +3644,7 @@
       "it": "Scrittura, Scrittura Pubblicitaria e Scrittura Tecnica",
       "jp": "執筆、コピー、技術系文書",
       "kr": "쓰기, 카피 라이팅 및 기술관련 글 쓰기",
+      "pt": "Escrita, Redacção e Redacção Técnica",
       "zh-hant": "廣告文案和技術文檔撰稿",
       "zh": "广告文案和技术文档撰稿"
     },
@@ -3459,6 +3662,7 @@
       "it": "Agricoltura e Selvicoltura",
       "jp": "農林",
       "kr": "농업 및 임업",
+      "pt": "Agricultura e Silvicultura",
       "zh-hant": "農業和林業",
       "zh": "农业和林业"
     },
@@ -3476,6 +3680,7 @@
       "it": "Restauro Arte",
       "jp": "美術品復元",
       "kr": "미술 복원",
+      "pt": "Restauro de Arte",
       "zh-hant": "藝術品修復",
       "zh": "艺术品修复"
     },
@@ -3493,6 +3698,7 @@
       "it": "Audiovisivi",
       "jp": "視聴覚",
       "kr": "영상물",
+      "pt": "Audiovisual",
       "zh-hant": "視聽",
       "zh": "视听"
     },
@@ -3510,6 +3716,7 @@
       "it": "Sistemi di Controllo e Automazione",
       "jp": "自動化および制御システム",
       "kr": "자동화 및 제어 시스템",
+      "pt": "Automação e Controlo de Sistemas",
       "zh-hant": "自動化控制系統",
       "zh": "自动化控制系统"
     },
@@ -3527,6 +3734,7 @@
       "it": "Sostanze Chimiche e Gas",
       "jp": "化学物質・ ガス",
       "kr": "화학 물질 및 가스",
+      "pt": "Químicos e Gases",
       "zh-hant": "化學品和氣體",
       "zh": "化学品和气体"
     },
@@ -3544,6 +3752,7 @@
       "it": "Computer",
       "jp": "コンピュータ",
       "kr": "컴퓨터",
+      "pt": "Informática",
       "zh-hant": "電腦",
       "zh": "电脑"
     },
@@ -3561,6 +3770,7 @@
       "it": "Quartieri Generali di Corporazioni",
       "jp": "企業本社",
       "kr": "기업 본부",
+      "pt": "Sede de Empresa",
       "zh-hant": "公司總部",
       "zh": "公司总部"
     },
@@ -3578,6 +3788,7 @@
       "it": "Apparecchiature Elettriche",
       "jp": "電気機器",
       "kr": "전기 장비",
+      "pt": "Equipamento Eléctrico",
       "zh-hant": "電氣化設備",
       "zh": "电气化设备"
     },
@@ -3595,6 +3806,7 @@
       "it": "Uffici di Collocamento",
       "jp": "求人および派遣会社",
       "kr": "고용 기관",
+      "pt": "Centros de Emprego",
       "zh-hant": "職業介紹所",
       "zh": "职业介绍所"
     },
@@ -3612,6 +3824,7 @@
       "it": "Ingegneria",
       "jp": "エンジニア リング",
       "kr": "공학",
+      "pt": "Engenharia",
       "zh-hant": "工程",
       "zh": "工程"
     },
@@ -3629,6 +3842,7 @@
       "it": "Spettacolo",
       "jp": "エンターテイメント",
       "kr": "엔터테인먼트",
+      "pt": "Entretenimento",
       "zh-hant": "娛樂",
       "zh": "娱乐"
     },
@@ -3646,6 +3860,7 @@
       "it": "Media",
       "jp": "メディア",
       "kr": "미디어",
+      "pt": "Meios de Comunicação",
       "zh-hant": "媒體",
       "zh": "媒体"
     },
@@ -3663,6 +3878,7 @@
       "it": "Noleggio Attrezzature",
       "jp": "機器レンタル",
       "kr": "장비 렌탈",
+      "pt": "Aluguer de Equipamento",
       "zh-hant": "設備租賃",
       "zh": "设备租赁"
     },
@@ -3680,6 +3896,7 @@
       "it": "Eventi e Pianificazione di Eventi",
       "jp": "イベント、イベント企画",
       "kr": "이벤트 및 이벤트 기획",
+      "pt": "Eventos e Planeamento de Eventos",
       "zh-hant": "活動及活動策劃",
       "zh": "活动及活动策划"
     },
@@ -3697,6 +3914,7 @@
       "it": "Bancomat",
       "jp": "ATM",
       "kr": "자동출금기",
+      "pt": "Caixas Automáticas Multibanco",
       "zh-hant": "自動取款機",
       "zh": "自动取款机"
     },
@@ -3714,6 +3932,7 @@
       "it": "Finanza",
       "jp": "金融",
       "kr": "금융",
+      "pt": "Finanças",
       "zh-hant": "金融",
       "zh": "金融"
     },
@@ -3731,6 +3950,7 @@
       "it": "Contabilità e Bilanci",
       "jp": "会計・簿記",
       "kr": "회계 및 부기",
+      "pt": "Contabilidade",
       "zh-hant": "會計和簿記",
       "zh": "会计和簿记"
     },
@@ -3748,6 +3968,7 @@
       "it": "Banche e Finanza",
       "jp": "金融",
       "kr": "은행 및 금융",
+      "pt": "Bancos e Finanças",
       "zh-hant": "銀行",
       "zh": "银行"
     },
@@ -3765,6 +3986,7 @@
       "it": "Intermediari e Concessionari",
       "jp": "ビジネス ブローカーとのフランチャイズ",
       "kr": "비즈니스 중개인 및 프랜차이즈",
+      "pt": "Corretores de Negócios e Franquia",
       "zh-hant": "商業經紀人和特許經營",
       "zh": "商业经纪人和特许经营"
     },
@@ -3782,6 +4004,7 @@
       "it": "Deposito Assegni",
       "jp": "小切手換金",
       "kr": "현금 확인",
+      "pt": "Depósito de Cheques",
       "zh-hant": "支票兌現",
       "zh": "支票兑现"
     },
@@ -3799,6 +4022,7 @@
       "it": "Recupero Debiti",
       "jp": "回収",
       "kr": "차압",
+      "pt": "Colecções",
       "zh-hant": "托收",
       "zh": "托收"
     },
@@ -3816,6 +4040,7 @@
       "it": "Pianificazione Finanziaria e Investimenti",
       "jp": "財務計画と投資",
       "kr": "재무 계획 및 투자",
+      "pt": "Planeamento Financeiro e Investimentos",
       "zh-hant": "財務策劃和投資",
       "zh": "财务策划和投资"
     },
@@ -3833,6 +4058,7 @@
       "it": "Raccolta Fondi",
       "jp": "資金調達",
       "kr": "기금 모금",
+      "pt": "Angariação de Fundos",
       "zh-hant": "籌資",
       "zh": "筹资"
     },
@@ -3850,6 +4076,7 @@
       "it": "Prestiti e Mutui",
       "jp": "貸付け金および抵当",
       "kr": "대출 및 담보",
+      "pt": "Empréstimos e Hipotecas",
       "zh-hant": "貸款和抵押",
       "zh": "贷款和抵押"
     },
@@ -3867,6 +4094,7 @@
       "it": "Intermediari Finanziari",
       "jp": "株式ブローカー",
       "kr": "주식 중개인",
+      "pt": "Corretores de Bolsa",
       "zh-hant": "證券經紀人",
       "zh": "证券经纪人"
     },
@@ -3884,6 +4112,7 @@
       "it": "Aiuti e Sussidi Per Studenti",
       "jp": "奨学金、助成金",
       "kr": "학자금 및 보조금",
+      "pt": "Auxílio e Bolsas para Estudantes",
       "zh-hant": "學生援助和助學金",
       "zh": "学生援助和助学金"
     },
@@ -3901,6 +4130,7 @@
       "it": "Cibo e Bevande",
       "jp": "食品と飲料",
       "kr": "음식 및 음료",
+      "pt": "Comida e Bebida",
       "zh-hant": "食品和飲料",
       "zh": "食品和饮料"
     },
@@ -3918,6 +4148,7 @@
       "it": "Catering",
       "jp": "ケータリング",
       "kr": "음식 공급",
+      "pt": "Catering",
       "zh-hant": "承辦酒席",
       "zh": "承办酒席"
     },
@@ -3935,6 +4166,7 @@
       "it": "Trasporto e Distribuzione",
       "jp": "配達",
       "kr": "유통",
+      "pt": "Distribuição",
       "zh-hant": "配送",
       "zh": "配送"
     },
@@ -3952,6 +4184,7 @@
       "it": "Servizi Funebri",
       "jp": "葬儀サービス",
       "kr": "장례 서비스",
+      "pt": "Agências Funerárias",
       "zh-hant": "殯葬服務",
       "zh": "殡葬服务"
     },
@@ -3969,6 +4202,7 @@
       "it": "Geologia",
       "jp": "地質",
       "kr": "지질",
+      "pt": "Geologia",
       "zh-hant": "地質",
       "zh": "地质"
     },
@@ -3986,6 +4220,7 @@
       "it": "Ristrutturazione e Bricolage",
       "jp": "改築",
       "kr": "집 개선",
+      "pt": "Renovação Habitacional",
       "zh-hant": "家庭裝潢",
       "zh": "家庭装潢"
     },
@@ -4003,6 +4238,7 @@
       "it": "Architetti",
       "jp": "建築家",
       "kr": "건축가",
+      "pt": "Arquitectos",
       "zh-hant": "建築師",
       "zh": "建筑师"
     },
@@ -4020,6 +4256,7 @@
       "it": "Falegnami",
       "jp": "大工",
       "kr": "목수",
+      "pt": "Carpinteiros",
       "zh-hant": "木匠",
       "zh": "木匠"
     },
@@ -4037,6 +4274,7 @@
       "it": "Moquette e Pavimenti",
       "jp": "カーペットやフローリング",
       "kr": "카펫 및 바닥 재",
+      "pt": "Tapetes e Pavimentos",
       "zh-hant": "地毯和地板",
       "zh": "地毯和地板"
     },
@@ -4054,6 +4292,7 @@
       "it": "Appaltatori",
       "jp": "請負業者",
       "kr": "계약자",
+      "pt": "Empreiteiros",
       "zh-hant": "承包商",
       "zh": "承包商"
     },
@@ -4071,6 +4310,7 @@
       "it": "Bagni",
       "jp": "浴室",
       "kr": "욕실",
+      "pt": "Quartos de Banho",
       "zh-hant": "浴室",
       "zh": "浴室"
     },
@@ -4088,6 +4328,7 @@
       "it": "Verande e Cortili",
       "jp": "デッキやパティオ",
       "kr": "나무를 깔은 테라스",
+      "pt": "Deck e Pátio",
       "zh-hant": "陽臺",
       "zh": "阳台"
     },
@@ -4105,6 +4346,7 @@
       "it": "Fognatura",
       "jp": "下水道",
       "kr": "하수구",
+      "pt": "Esgoto",
       "zh-hant": "下水道",
       "zh": "下水道"
     },
@@ -4122,6 +4364,7 @@
       "it": "Porte e Finestre",
       "jp": "のドアと窓",
       "kr": "문 및 창",
+      "pt": "Portas e Janelas",
       "zh-hant": "門和窗",
       "zh": "门和窗"
     },
@@ -4139,6 +4382,7 @@
       "it": "Elettricisti",
       "jp": "電気技師",
       "kr": "전기 기술자",
+      "pt": "Electricistas",
       "zh-hant": "電工",
       "zh": "电工"
     },
@@ -4156,6 +4400,7 @@
       "it": "Recinzioni, Camini e Saracinesche",
       "jp": "フェンス、暖炉、ガレージのドア",
       "kr": "울타리, 벽난로 및 차고 문",
+      "pt": "Vedações, Lareiras e Portões de Garagem",
       "zh-hant": "圍欄、壁爐和車庫門",
       "zh": "围栏、壁炉和车库门"
     },
@@ -4173,6 +4418,7 @@
       "it": "Ferramenta e Servizi",
       "jp": "ハードウェアとサービス",
       "kr": "기자재, 장비및 서비스",
+      "pt": "Ferramentas e Serviços",
       "zh-hant": "五金和服務",
       "zh": "五金和服务"
     },
@@ -4190,6 +4436,7 @@
       "it": "Riscaldamento, Ventilazione e Aria Condizionata (climatizazione)",
       "jp": "暖房、換気および空調",
       "kr": "난방, 환기 및 공기 조절",
+      "pt": "Aquecimento, Ventilação e Ar Condicionado",
       "zh-hant": "供暖、通風和空調",
       "zh": "供暖、通风和空调"
     },
@@ -4207,6 +4454,7 @@
       "it": "Elettrodomestici",
       "jp": "家電",
       "kr": "가전 재품",
+      "pt": "Electrodomésticos",
       "zh-hant": "家電",
       "zh": "家电"
     },
@@ -4224,6 +4472,7 @@
       "it": "Servizi di Certificazione Edilizia",
       "jp": "家屋検査サービス",
       "kr": "집 검사 서비스",
+      "pt": "Serviços de Inspecção de Edifícios",
       "zh-hant": "上門檢查服務",
       "zh": "上门检查服务"
     },
@@ -4241,6 +4490,7 @@
       "it": "Articoli Per La Casa",
       "jp": "家庭用品",
       "kr": "가정 용품",
+      "pt": "Equipamento para Cozinha",
       "zh-hant": "家居用品",
       "zh": "家居用品"
     },
@@ -4258,6 +4508,7 @@
       "it": "Design D'interni",
       "jp": "インテリア デザイン",
       "kr": "인테리어 디자인",
+      "pt": "Design de Interiores",
       "zh-hant": "室內設計",
       "zh": "室内设计"
     },
@@ -4275,6 +4526,7 @@
       "it": "Cucine",
       "jp": "キッチン",
       "kr": "주방",
+      "pt": "Cozinhas",
       "zh-hant": "廚房",
       "zh": "厨房"
     },
@@ -4292,6 +4544,7 @@
       "it": "Giardinieri",
       "jp": "造園と庭師",
       "kr": "조경 및 정원사",
+      "pt": "Jardinagem",
       "zh-hant": "環境美化和園藝",
       "zh": "环境美化和园艺"
     },
@@ -4309,6 +4562,7 @@
       "it": "Illuminazione",
       "jp": "照明器具",
       "kr": "조명 기구",
+      "pt": "Iluminação",
       "zh-hant": "燈飾",
       "zh": "灯饰"
     },
@@ -4326,6 +4580,7 @@
       "it": "Case Mobili",
       "jp": "モービルホーム",
       "kr": "이동 주택",
+      "pt": "Casas Móveis",
       "zh-hant": "移動房屋",
       "zh": "移动房屋"
     },
@@ -4343,6 +4598,7 @@
       "it": "Traslochi",
       "jp": "引越し",
       "kr": "이삿짐",
+      "pt": "Mudanças",
       "zh-hant": "搬家公司",
       "zh": "搬家公司"
     },
@@ -4360,6 +4616,7 @@
       "it": "Imbianchini",
       "jp": "絵画",
       "kr": "회화",
+      "pt": "Pintura",
       "zh-hant": "粉刷",
       "zh": "粉刷"
     },
@@ -4377,6 +4634,7 @@
       "it": "Disinfestazione",
       "jp": "害虫駆除",
       "kr": "해충 퇴치",
+      "pt": "Controlo de Pragas",
       "zh-hant": "病蟲害防治",
       "zh": "病虫害防治"
     },
@@ -4394,6 +4652,7 @@
       "it": "Impianti Idraulici",
       "jp": "配管",
       "kr": "배관",
+      "pt": "Canalização",
       "zh-hant": "水管",
       "zh": "水管"
     },
@@ -4411,6 +4670,7 @@
       "it": "Piscine e Idromassagi",
       "jp": "プールおよびスパ",
       "kr": "수영장 및 스파",
+      "pt": "Piscinas e Spas",
       "zh-hant": "水池和水療",
       "zh": "水池和水疗"
     },
@@ -4428,6 +4688,7 @@
       "it": "Carpintieri",
       "jp": "屋根職人",
       "kr": "지붕 기술자",
+      "pt": "Conserto de Telhados",
       "zh-hant": "屋頂",
       "zh": "屋顶"
     },
@@ -4445,6 +4706,7 @@
       "it": "Deposito Personale",
       "jp": "倉庫",
       "kr": "창고",
+      "pt": "Armazenamento",
       "zh-hant": "存儲",
       "zh": "存储"
     },
@@ -4462,6 +4724,7 @@
       "it": "Manutenzione e Riparazione Piscine",
       "jp": "スイミング プール維持とサービス",
       "kr": "수영장 유지 보수 및 서비스",
+      "pt": "Serviços e Manutenção de Piscinas",
       "zh-hant": "遊泳池維護和服務",
       "zh": "游泳池维护和服务"
     },
@@ -4479,6 +4742,7 @@
       "it": "Giardiniere Che Taglia L'albero",
       "jp": "剪定",
       "kr": "나무서비스",
+      "pt": "Serviço de Arborização",
       "zh-hant": "樹木維護",
       "zh": "树木维护"
     },
@@ -4496,6 +4760,7 @@
       "it": "Tappezzeria",
       "jp": "壁紙、カーテンなど",
       "kr": "장식",
+      "pt": "Estofamento",
       "zh-hant": "室內裝飾",
       "zh": "室内装饰"
     },
@@ -4513,6 +4778,7 @@
       "it": "Risorse Umane",
       "jp": "人材",
       "kr": "인사과",
+      "pt": "Recursos Humanos",
       "zh-hant": "人力資源",
       "zh": "人力资源"
     },
@@ -4530,6 +4796,7 @@
       "it": "Importazione Ed Esportazione",
       "jp": "輸出入",
       "kr": "수입 밎 수출",
+      "pt": "Importação e Exportação",
       "zh-hant": "進出口",
       "zh": "进出口"
     },
@@ -4547,6 +4814,7 @@
       "it": "Pelle",
       "jp": "革",
       "kr": "가죽",
+      "pt": "Couro",
       "zh-hant": "皮革",
       "zh": "皮革"
     },
@@ -4564,6 +4832,7 @@
       "it": "Legale",
       "jp": "法律",
       "kr": "법률",
+      "pt": "Jurídico",
       "zh-hant": "法律",
       "zh": "法律"
     },
@@ -4581,6 +4850,7 @@
       "it": "Credit Counseling e Servizi Fallimento",
       "jp": "クレジット カウンセリングや倒産サービス",
       "kr": "신용 상담 및 파산 서비스",
+      "pt": "Aconselhamento de Crédito e Serviços de Falência",
       "zh-hant": "信用咨詢和破產服務",
       "zh": "信用咨询和破产服务"
     },
@@ -4598,6 +4868,7 @@
       "it": "Immigrazione",
       "jp": "移民",
       "kr": "이민",
+      "pt": "Imigração",
       "zh-hant": "移民",
       "zh": "移民"
     },
@@ -4615,6 +4886,7 @@
       "it": "Assicurazione",
       "jp": "保険",
       "kr": "보험",
+      "pt": "Seguros",
       "zh-hant": "保險",
       "zh": "保险"
     },
@@ -4632,6 +4904,7 @@
       "it": "Macchinari",
       "jp": "機械販売",
       "kr": "공장",
+      "pt": "Oficinas Mecânicas",
       "zh-hant": "機械工廠",
       "zh": "机械工厂"
     },
@@ -4649,6 +4922,7 @@
       "it": "Gestione D'impresa",
       "jp": "管理",
       "kr": "관리",
+      "pt": "Administração",
       "zh-hant": "管理",
       "zh": "管理"
     },
@@ -4666,6 +4940,7 @@
       "it": "Produzione",
       "jp": "製造",
       "kr": "제조",
+      "pt": "Manufactura",
       "zh-hant": "制造",
       "zh": "制造"
     },
@@ -4683,6 +4958,7 @@
       "it": "Carta",
       "jp": "紙",
       "kr": "용지",
+      "pt": "Papel",
       "zh-hant": "紙張",
       "zh": "纸张"
     },
@@ -4700,6 +4976,7 @@
       "it": "Cura Personale",
       "jp": "身だしなみ",
       "kr": "개인 관리",
+      "pt": "Cuidados Pessoais",
       "zh-hant": "個人護理",
       "zh": "个人护理"
     },
@@ -4717,6 +4994,7 @@
       "it": "Lavasecco, Lavanderia e Stireria",
       "jp": "ドライ クリーニング、アイロンおよびランドリー サービス",
       "kr": "드라이 클리닝, 다림질, 세탁",
+      "pt": "Limpeza a seco, Engomadoria e Lavandaria",
       "zh-hant": "幹洗、熨燙和洗衣店",
       "zh": "干洗、熨烫和洗衣店"
     },
@@ -4734,6 +5012,7 @@
       "it": "Depilazione",
       "jp": "脱毛",
       "kr": "제모",
+      "pt": "Depilação",
       "zh-hant": "脫毛",
       "zh": "脱毛"
     },
@@ -4751,6 +5030,7 @@
       "it": "Parrucchieri e Barbieri",
       "jp": "美容室、理髪店",
       "kr": "미용실 및 이발소",
+      "pt": "Cabeleireiros e Barbeiros",
       "zh-hant": "美發沙龍和理發店",
       "zh": "美发沙龙和理发店"
     },
@@ -4768,6 +5048,7 @@
       "it": "Manicure e Pedicure",
       "jp": "ネイル",
       "kr": "메니큐어 밎 페디큐어",
+      "pt": "Manicure e Pedicure",
       "zh-hant": "指甲修護",
       "zh": "指甲修护"
     },
@@ -4785,6 +5066,7 @@
       "it": "Massaggi",
       "jp": "マッサージ療法、診療所",
       "kr": "얼굴 마사지소 및 치료 마사지",
+      "pt": "Clínicas de Massagem e Terapeutas",
       "zh-hant": "按摩診所和治療師",
       "zh": "按摩诊所和治疗师"
     },
@@ -4802,6 +5084,7 @@
       "it": "Piercing",
       "jp": "ピアス",
       "kr": "뚫음",
+      "pt": "Piercing",
       "zh-hant": "穿孔",
       "zh": "穿孔"
     },
@@ -4819,6 +5102,7 @@
       "it": "Cura Della Pelle",
       "jp": "スキンケア",
       "kr": "피부 관리",
+      "pt": "Cuidados com a Pele",
       "zh-hant": "護膚",
       "zh": "护肤"
     },
@@ -4836,6 +5120,7 @@
       "it": "Terme",
       "jp": "スパ",
       "kr": "스파",
+      "pt": "Spas e Termas",
       "zh-hant": "水療",
       "zh": "水疗"
     },
@@ -4853,6 +5138,7 @@
       "it": "Centri Abbronzatura",
       "jp": "日焼けサロン",
       "kr": "선탠 살롱",
+      "pt": "Solários",
       "zh-hant": "日光浴沙龍",
       "zh": "日光浴沙龙"
     },
@@ -4870,6 +5156,7 @@
       "it": "Tatuaggi",
       "jp": "入れ墨",
       "kr": "문신",
+      "pt": "Tatuagens",
       "zh-hant": "紋身",
       "zh": "纹身"
     },
@@ -4887,6 +5174,7 @@
       "it": "Stampe, Fotocopie e Segnaletica",
       "jp": "印刷、コピー、看板",
       "kr": "인쇄, 복사 및 간판",
+      "pt": "Impressão, Cópia e Sinalização",
       "zh-hant": "打印、復印和標牌制作",
       "zh": "打印、复印和标牌制作"
     },
@@ -4904,6 +5192,7 @@
       "it": "Pulizia Professionale",
       "jp": "清掃サービス",
       "kr": "전문 청소",
+      "pt": "Limpeza e Higiene Profissional",
       "zh-hant": "專業清潔",
       "zh": "专业清洁"
     },
@@ -4921,6 +5210,7 @@
       "it": "Editoria",
       "jp": "出版",
       "kr": "출판",
+      "pt": "Editoras",
       "zh-hant": "出版",
       "zh": "出版"
     },
@@ -4938,6 +5228,7 @@
       "it": "Immobiliare",
       "jp": "不動産",
       "kr": "부동산",
+      "pt": "Ramo Imobiliário",
       "zh-hant": "房地產",
       "zh": "房地产"
     },
@@ -4955,6 +5246,7 @@
       "it": "Gestione Delle Proprietà ",
       "jp": "不動産管理",
       "kr": "부동산 관리",
+      "pt": "Gestão de Propriedades",
       "zh-hant": "物業管理",
       "zh": "物业管理"
     },
@@ -4972,6 +5264,7 @@
       "it": "Agenti Immobiliari",
       "jp": "不動産業者",
       "kr": "부동산",
+      "pt": "Agentes Imobiliários",
       "zh-hant": "房地產代理",
       "zh": "房地产代理"
     },
@@ -4989,6 +5282,7 @@
       "it": "Periti Immobiliari",
       "jp": "不動産鑑定士",
       "kr": "부동산 감정",
+      "pt": "Avaliador Imobiliário",
       "zh-hant": "房地產估價師",
       "zh": "房地产估价师"
     },
@@ -5006,6 +5300,7 @@
       "it": "Sviluppo Immobiliare",
       "jp": "不動産開発、名義",
       "kr": "부동산 개발 및 소유권 기업",
+      "pt": "Empresas Imobiliárias e de Títulos",
       "zh-hant": "房地產開發商和產權公司",
       "zh": "房地产开发商和产权公司"
     },
@@ -5023,6 +5318,7 @@
       "it": "Appartamenti, Condomini, e Ville",
       "jp": "アパート、マンションや家",
       "kr": "아파트, 콘도 및 주택",
+      "pt": "Apartamentos, Condomínios e Casas",
       "zh-hant": "公寓、高級公寓和別墅",
       "zh": "公寓、高级公寓和别墅"
     },
@@ -5040,6 +5336,7 @@
       "it": "Pensioni",
       "jp": "下宿",
       "kr": "하숙집",
+      "pt": "Pensões",
       "zh-hant": "旅舍",
       "zh": "旅舍"
     },
@@ -5057,6 +5354,7 @@
       "it": "Geometri",
       "jp": "建物、土地測量",
       "kr": "건물 및 토지 측량",
+      "pt": "Construção e Topógrafos",
       "zh-hant": "建築和土地測量師",
       "zh": "建筑和土地测量师"
     },
@@ -5074,6 +5372,7 @@
       "it": "Immobiliare Commerciale",
       "jp": "商業用不動産",
       "kr": "상업용 부동산",
+      "pt": "Comércio Imobiliário",
       "zh-hant": "商業地產",
       "zh": "商业地产"
     },
@@ -5091,6 +5390,7 @@
       "it": "Corporate Housing",
       "jp": "社宅",
       "kr": "기업 주택",
+      "pt": "Condomínio Empresarial",
       "zh-hant": "辦公樓",
       "zh": "办公楼"
     },
@@ -5108,6 +5408,7 @@
       "it": "Energie Rinnovabili",
       "jp": "再生可能エネルギー",
       "kr": "재생 에너지",
+      "pt": "Energia Renovável",
       "zh-hant": "可再生能源",
       "zh": "可再生能源"
     },
@@ -5125,6 +5426,7 @@
       "it": "Servizi di Riparazione",
       "jp": "修復サービス",
       "kr": "수리 서비스",
+      "pt": "Serviços de Reparação",
       "zh-hant": "維修服務",
       "zh": "维修服务"
     },
@@ -5142,6 +5444,7 @@
       "it": "Spedizione e Trasporto Merci",
       "jp": "出荷、貨物と輸送",
       "kr": "운송, 화물, 및 물자 수송",
+      "pt": "Expedição e Transporte de Materiais",
       "zh-hant": "航運、貨運和材料運輸",
       "zh": "航运、货运和材料运输"
     },
@@ -5159,6 +5462,7 @@
       "it": "Sarti",
       "jp": "仕立て屋",
       "kr": "재단사",
+      "pt": "Alfaiates",
       "zh-hant": "裁縫",
       "zh": "裁缝"
     },
@@ -5176,6 +5480,7 @@
       "it": "Veterinari",
       "jp": "獣医",
       "kr": "수의사",
+      "pt": "Veterinários",
       "zh-hant": "獸醫",
       "zh": "兽医"
     },
@@ -5193,6 +5498,7 @@
       "it": "Web Design e Web Development",
       "jp": "Web デザインと開発",
       "kr": "웹 디자인 및 개발",
+      "pt": "Design e Desenvolvimento para a Web",
       "zh-hant": "網站設計和開發",
       "zh": "网站设计和开发"
     },
@@ -5210,6 +5516,7 @@
       "it": "Vendita All'ingrosso",
       "jp": "卸売",
       "kr": "도매",
+      "pt": "Comércio por Grosso",
       "zh-hant": "批發",
       "zh": "批发"
     },
@@ -5227,6 +5534,7 @@
       "it": "Sociale",
       "jp": "社会",
       "kr": "사회",
+      "pt": "Social",
       "zh-hant": "社交",
       "zh": "社交"
     },
@@ -5244,6 +5552,7 @@
       "it": "Arti",
       "jp": "芸術",
       "kr": "예술",
+      "pt": "Artes",
       "zh-hant": "藝術",
       "zh": "艺术"
     },
@@ -5261,6 +5570,7 @@
       "it": "Venditori e Gallerie D'arte",
       "jp": "画商とギャラリー",
       "kr": "미술상와 갤러리",
+      "pt": "Negociantes e Galerias de Arte",
       "zh-hant": "藝術經銷商和畫廊",
       "zh": "艺术经销商和画廊"
     },
@@ -5278,6 +5588,7 @@
       "it": "Musei",
       "jp": "博物館",
       "kr": "박물관",
+      "pt": "Museus",
       "zh-hant": "博物館",
       "zh": "博物馆"
     },
@@ -5295,6 +5606,7 @@
       "it": "Bar",
       "jp": "バー",
       "kr": "술집",
+      "pt": "Bares",
       "zh-hant": "酒吧",
       "zh": "酒吧"
     },
@@ -5312,6 +5624,7 @@
       "it": "Bar All'intero di Alberghi",
       "jp": "ホテル ラウンジ",
       "kr": "호텔 휴게실",
+      "pt": "Salões de Hotel",
       "zh-hant": "酒店會所",
       "zh": "酒店会所"
     },
@@ -5329,6 +5642,7 @@
       "it": "Locali Jazz e Blues",
       "jp": "ジャズとブルースのカフェ",
       "kr": "재즈와 블루스 카페",
+      "pt": "Cafés de Jazz e Blues",
       "zh-hant": "爵士樂和藍調酒吧",
       "zh": "爵士乐和蓝调酒吧"
     },
@@ -5346,6 +5660,7 @@
       "it": "Bar Sportivi",
       "jp": "スポーツ バー",
       "kr": "스포츠 바",
+      "pt": "Bares Desportivos",
       "zh-hant": "運動酒吧",
       "zh": "运动酒吧"
     },
@@ -5363,6 +5678,7 @@
       "it": "Bar Enoteche",
       "jp": "ワイン バー",
       "kr": "와인 바",
+      "pt": "Bares de Vinho",
       "zh-hant": "紅酒吧",
       "zh": "红酒吧"
     },
@@ -5380,6 +5696,7 @@
       "it": "Intrattenimento",
       "jp": "エンターテイメント",
       "kr": "엔터테인먼트",
+      "pt": "Entretenimento",
       "zh-hant": "娛樂",
       "zh": "娱乐"
     },
@@ -5397,6 +5714,7 @@
       "it": "Locali Per Adulti",
       "jp": "成人",
       "kr": "성인",
+      "pt": "Adultos",
       "zh-hant": "成人",
       "zh": "成人"
     },
@@ -5414,6 +5732,7 @@
       "it": "Sale Da Giochi e Parchi di Divertimento",
       "jp": "アーケード、遊園地",
       "kr": "아케이드 및 놀이동산",
+      "pt": "Vídeojogos e Parques de Diversões",
       "zh-hant": "遊藝廳和遊樂場",
       "zh": "游艺厅和游乐场"
     },
@@ -5431,6 +5750,7 @@
       "it": "Sale Da Biliardo",
       "jp": "ビリヤード、プール",
       "kr": "당구장 및 수영장",
+      "pt": "Salas de Bilhar",
       "zh-hant": "桌球",
       "zh": "桌球"
     },
@@ -5448,6 +5768,7 @@
       "it": "Tombola",
       "jp": "ビンゴ",
       "kr": "빙고",
+      "pt": "Bingo",
       "zh-hant": "賓果",
       "zh": "宾果"
     },
@@ -5465,6 +5786,7 @@
       "it": "Bowling",
       "jp": "ボウリング",
       "kr": "볼링장",
+      "pt": "Bowling",
       "zh-hant": "保齡球",
       "zh": "保龄球"
     },
@@ -5482,6 +5804,7 @@
       "it": "Fiere",
       "jp": "カーニバル",
       "kr": "축제",
+      "pt": "Carnavais",
       "zh-hant": "嘉年華",
       "zh": "嘉年华"
     },
@@ -5499,6 +5822,7 @@
       "it": "Casinò e Gioco D'azzardo",
       "jp": "カジノ ・ ゲーム",
       "kr": "카지노 및 도박",
+      "pt": "Casinos e Jogo",
       "zh-hant": "賭場及賭博",
       "zh": "赌场及赌博"
     },
@@ -5516,6 +5840,7 @@
       "it": "Circhi",
       "jp": "サーカス",
       "kr": "서커스",
+      "pt": "Circos",
       "zh-hant": "馬戲團",
       "zh": "马戏团"
     },
@@ -5533,6 +5858,7 @@
       "it": "Sale Da Ballo e Balere",
       "jp": "ダンスホールや酒場",
       "kr": "무도장 및 라운지",
+      "pt": "Salões de Dança",
       "zh-hant": "舞廳和交誼廳",
       "zh": "舞厅和交谊厅"
     },
@@ -5550,6 +5876,7 @@
       "it": "Sedi Fieristiche e Rodei",
       "jp": "見本市会場、ロデオ",
       "kr": "박람회 및 로데오",
+      "pt": "Feiras e Rodeios",
       "zh-hant": "露天廣場和牛仔表演",
       "zh": "露天广场和牛仔表演"
     },
@@ -5567,6 +5894,7 @@
       "it": "Go Kart",
       "jp": "ゴーカート",
       "kr": "이동 카트",
+      "pt": "Karting",
       "zh-hant": "卡丁車",
       "zh": "卡丁车"
     },
@@ -5584,6 +5912,7 @@
       "it": "Bar Per Fumare Narghilé",
       "jp": "水パイプ ラウンジ",
       "kr": "후카 라운지",
+      "pt": "Salões de Narguilé",
       "zh-hant": "水煙會所",
       "zh": "水烟会所"
     },
@@ -5601,6 +5930,7 @@
       "it": "Karaoke",
       "jp": "カラオケ",
       "kr": "노래방",
+      "pt": "Karaoke",
       "zh-hant": "卡拉OK",
       "zh": "卡拉OK"
     },
@@ -5618,6 +5948,7 @@
       "it": "Minigolf",
       "jp": "ミニチュア ゴルフ",
       "kr": "미니 골프",
+      "pt": "Mini-golfe",
       "zh-hant": "迷你高爾夫",
       "zh": "迷你高尔夫"
     },
@@ -5635,6 +5966,7 @@
       "it": "Cinema",
       "jp": "映画館",
       "kr": "영화관",
+      "pt": "Cinemas",
       "zh-hant": "電影院",
       "zh": "电影院"
     },
@@ -5652,6 +5984,7 @@
       "it": "Locali Per Concerti e Spettacoli",
       "jp": "音楽とショー会場",
       "kr": "음악 및 공연 장소",
+      "pt": "Salas de Música e Espectáculos",
       "zh-hant": "音樂和表演場地",
       "zh": "音乐和表演场地"
     },
@@ -5669,6 +6002,7 @@
       "it": "Locali Notturni",
       "jp": "ナイトクラブ",
       "kr": "나이트 클럽",
+      "pt": "Clubes Nocturnos e Discotecas",
       "zh-hant": "夜總會",
       "zh": "夜总会"
     },
@@ -5686,6 +6020,7 @@
       "it": "Negozi di Articoli Per Feste",
       "jp": "パーティー会場",
       "kr": "파티 센터",
+      "pt": "Centros de Festa",
       "zh-hant": "派對中心",
       "zh": "派对中心"
     },
@@ -5703,6 +6038,7 @@
       "it": "Sensitivi e Astrologi",
       "jp": "占いと占星術師",
       "kr": "점술과 점성술",
+      "pt": "Videntes e Astrólogos",
       "zh-hant": "通靈師和占星師",
       "zh": "通灵师和占星师"
     },
@@ -5720,6 +6056,7 @@
       "it": "Vendita Biglietti",
       "jp": "チケット販売",
       "kr": "티켓 판매",
+      "pt": "Bilheteiras",
       "zh-hant": "彩票銷售",
       "zh": "彩票销售"
     },
@@ -5737,6 +6074,7 @@
       "it": "Cibo e Ristorazione",
       "jp": "食品と外食",
       "kr": "음식 및 식사",
+      "pt": "Restauração",
       "zh-hant": "食品和餐飲",
       "zh": "食品和餐饮"
     },
@@ -5754,6 +6092,7 @@
       "it": "Bagels e Ciambelle",
       "jp": "ベーグルやドーナツ",
       "kr": "베이글와 도넛",
+      "pt": "Bagels e Donuts",
       "zh-hant": "貝果面包和甜甜圈",
       "zh": "贝果面包和甜甜圈"
     },
@@ -5771,6 +6110,7 @@
       "it": "Panifici",
       "jp": "パン屋",
       "kr": "빵류",
+      "pt": "Padarias e Pastelarias",
       "zh-hant": "面包店",
       "zh": "面包店"
     },
@@ -5788,6 +6128,7 @@
       "it": "Birrifici",
       "jp": "醸造所",
       "kr": "주류",
+      "pt": "Cervejarias",
       "zh-hant": "釀酒廠",
       "zh": "酿酒厂"
     },
@@ -5805,6 +6146,7 @@
       "it": "Caffè e Sale Da Tè",
       "jp": "カフェ、コーヒー、喫茶店",
       "kr": "카페, 커피, 찻집",
+      "pt": "Cafés e Salas de Chá",
       "zh-hant": "咖啡館和茶館",
       "zh": "咖啡馆和茶馆"
     },
@@ -5822,6 +6164,7 @@
       "it": "Dessert",
       "jp": "デザート",
       "kr": "디저트",
+      "pt": "Sobremesas",
       "zh-hant": "甜品",
       "zh": "甜品"
     },
@@ -5839,6 +6182,7 @@
       "it": "Gelaterie",
       "jp": "アイス クリーム パーラー",
       "kr": "아이스크림 가게",
+      "pt": "Gelatarias",
       "zh-hant": "冰淇淋店",
       "zh": "冰淇淋店"
     },
@@ -5856,6 +6200,7 @@
       "it": "Internet Café",
       "jp": "インターネット カフェ",
       "kr": "인터넷 카페",
+      "pt": "Cibercafés",
       "zh-hant": "網吧",
       "zh": "网吧"
     },
@@ -5873,6 +6218,7 @@
       "it": "Spremuterie e Frullaterie",
       "jp": "ジュース ・ バーとスムージー",
       "kr": "주스와 스무디",
+      "pt": "Bares de Sumos e Batidos",
       "zh-hant": "果汁吧",
       "zh": "果汁吧"
     },
@@ -5890,6 +6236,7 @@
       "it": "Ristoranti",
       "jp": "レストラン",
       "kr": "음식점",
+      "pt": "Restaurantes",
       "zh-hant": "餐廳",
       "zh": "餐厅"
     },
@@ -5907,6 +6254,7 @@
       "it": "Americani",
       "jp": "アメリカ料理",
       "kr": "아메리칸",
+      "pt": "Americanos",
       "zh-hant": "美式餐廳",
       "zh": "美式餐厅"
     },
@@ -5924,6 +6272,7 @@
       "it": "Barbecue",
       "jp": "バーベキュー",
       "kr": "바베큐",
+      "pt": "Barbecue",
       "zh-hant": "燒烤",
       "zh": "烧烤"
     },
@@ -5941,6 +6290,7 @@
       "it": "Buffet",
       "jp": "ビュッフェ",
       "kr": "뷔페",
+      "pt": "Buffet",
       "zh-hant": "自助餐",
       "zh": "自助餐"
     },
@@ -5958,6 +6308,7 @@
       "it": "Hamburger",
       "jp": "ハンバーガー",
       "kr": "햄버거",
+      "pt": "Hambúrgueres",
       "zh-hant": "漢堡",
       "zh": "汉堡"
     },
@@ -5975,6 +6326,7 @@
       "it": "Cinesi",
       "jp": "中国",
       "kr": "중식",
+      "pt": "Restaurantes Chineses",
       "zh-hant": "中式餐廳",
       "zh": "中式餐厅"
     },
@@ -5992,6 +6344,7 @@
       "it": "Delicatessen",
       "jp": "デリ",
       "kr": "델리",
+      "pt": "Casas de Produtos Gourmet",
       "zh-hant": "熟食店",
       "zh": "熟食店"
     },
@@ -6009,6 +6362,7 @@
       "it": "Diner",
       "jp": "ダイナー",
       "kr": "간이식당",
+      "pt": "Cafetarias",
       "zh-hant": "餐車",
       "zh": "餐车"
     },
@@ -6026,6 +6380,7 @@
       "it": "Fast Food",
       "jp": "ファーストフード",
       "kr": "패스트푸드",
+      "pt": "Fast Food",
       "zh-hant": "快餐",
       "zh": "快餐"
     },
@@ -6043,6 +6398,7 @@
       "it": "Francesi",
       "jp": "フレンチ",
       "kr": "프랑스요리",
+      "pt": "Franceses",
       "zh-hant": "法式餐廳",
       "zh": "法式餐厅"
     },
@@ -6060,6 +6416,7 @@
       "it": "Indiani",
       "jp": "インド料理",
       "kr": "인도요리",
+      "pt": "Indianos",
       "zh-hant": "印度餐廳",
       "zh": "印度餐厅"
     },
@@ -6077,6 +6434,7 @@
       "it": "Italiani",
       "jp": "イタリアン",
       "kr": "이탈리아요리",
+      "pt": "Italianos",
       "zh-hant": "意式餐廳",
       "zh": "意式餐厅"
     },
@@ -6094,6 +6452,7 @@
       "it": "Giapponesi",
       "jp": "和食",
       "kr": "일식",
+      "pt": "Japoneses",
       "zh-hant": "日式餐廳",
       "zh": "日式餐厅"
     },
@@ -6111,6 +6470,7 @@
       "it": "Coreani",
       "jp": "韓国料理",
       "kr": "한식",
+      "pt": "Coreanos",
       "zh-hant": "韓式餐廳",
       "zh": "韩式餐厅"
     },
@@ -6128,6 +6488,7 @@
       "it": "Messicani",
       "jp": "メキシカン",
       "kr": "멕시칸",
+      "pt": "Mexicanos",
       "zh-hant": "墨西哥餐廳",
       "zh": "墨西哥餐厅"
     },
@@ -6145,6 +6506,7 @@
       "it": "Medio Orientali",
       "jp": "中近東",
       "kr": "중동요리",
+      "pt": "Do Médio Oriente",
       "zh-hant": "中東餐廳",
       "zh": "中东餐厅"
     },
@@ -6162,6 +6524,7 @@
       "it": "Pizzerie",
       "jp": "ピザ",
       "kr": "피자",
+      "pt": "Pizzarias",
       "zh-hant": "比薩",
       "zh": "比萨"
     },
@@ -6179,6 +6542,7 @@
       "it": "Pesce",
       "jp": "シーフード",
       "kr": "해산물",
+      "pt": "Marisqueiras",
       "zh-hant": "海鮮",
       "zh": "海鲜"
     },
@@ -6196,6 +6560,7 @@
       "it": "Steakhouse",
       "jp": "ステーキハウス",
       "kr": "스테이크 하우스",
+      "pt": "Churrascarias",
       "zh-hant": "牛排",
       "zh": "牛排"
     },
@@ -6213,6 +6578,7 @@
       "it": "Sushi",
       "jp": "寿司",
       "kr": "초밥",
+      "pt": "De Sushi",
       "zh-hant": "壽司",
       "zh": "寿司"
     },
@@ -6230,6 +6596,7 @@
       "it": "Tailandesi",
       "jp": "タイ",
       "kr": "태국요리",
+      "pt": "Tailandeses",
       "zh-hant": "泰式餐廳",
       "zh": "泰式餐厅"
     },
@@ -6247,6 +6614,7 @@
       "it": "Vegani e Vegetariani",
       "jp": "ビーガン、ベジタリアン",
       "kr": "채식",
+      "pt": "Vegan e Vegetarianos",
       "zh-hant": "素食餐廳",
       "zh": "素食餐厅"
     },
@@ -6264,6 +6632,7 @@
       "it": "Club Per Soci",
       "jp": "社交クラブ",
       "kr": "사교 클럽",
+      "pt": "Clubes Sociais",
       "zh-hant": "社交俱樂部",
       "zh": "社交俱乐部"
     },
@@ -6281,6 +6650,7 @@
       "it": "Cantine e Vigneti",
       "jp": "ワイナリーやブドウ園",
       "kr": "와이너리와 포도원",
+      "pt": "Adegas e Vinhas",
       "zh-hant": "葡萄酒廠和葡萄園",
       "zh": "葡萄酒厂和葡萄园"
     },
@@ -6298,6 +6668,7 @@
       "it": "Zoo, Acquari e Riserve Per Fauna Selvatica",
       "jp": "動物園、水族館、野生生物保護区",
       "kr": "동물원, 수족관 및 야생 동물 보호구역",
+      "pt": "Jardins Zoológicos, Aquários e Parques Biológicos",
       "zh-hant": "動物園、水族館和野生動物保護區",
       "zh": "动物园、水族馆和野生动物保护区"
     },
@@ -6315,6 +6686,7 @@
       "it": "Sport e Ricreazione",
       "jp": "スポーツとレクリエーション",
       "kr": "스포츠 및 레크리에이션",
+      "pt": "Desportos e Lazer",
       "zh-hant": "運動和休閑",
       "zh": "运动和休闲"
     },
@@ -6332,6 +6704,7 @@
       "it": "Campi Sportivi",
       "jp": "競技場",
       "kr": "육상",
+      "pt": "Campos de Atletismo",
       "zh-hant": "田徑場",
       "zh": "田径场"
     },
@@ -6349,6 +6722,7 @@
       "it": "Baseball",
       "jp": "野球",
       "kr": "야구",
+      "pt": "Basebol",
       "zh-hant": "棒球",
       "zh": "棒球"
     },
@@ -6366,6 +6740,7 @@
       "it": "Strutture Per Battere A Baseball",
       "jp": "バッティングセンター",
       "kr": "배팅장",
+      "pt": "Centros de Treino de Basebol",
       "zh-hant": "擊球籠",
       "zh": "击球笼"
     },
@@ -6383,6 +6758,7 @@
       "it": "Basket",
       "jp": "バスケット ボール",
       "kr": "농구",
+      "pt": "Basquetebol",
       "zh-hant": "籃球",
       "zh": "篮球"
     },
@@ -6400,6 +6776,7 @@
       "it": "Sport di Combattimento",
       "jp": "格闘技",
       "kr": "격투기",
+      "pt": "Desportos de Combate",
       "zh-hant": "搏擊運動",
       "zh": "搏击运动"
     },
@@ -6417,6 +6794,7 @@
       "it": "Ciclismo",
       "jp": "サイクリング",
       "kr": "자전거",
+      "pt": "Ciclismo",
       "zh-hant": "自行車",
       "zh": "自行车"
     },
@@ -6434,6 +6812,7 @@
       "it": "Danza",
       "jp": "ダンス",
       "kr": "춤",
+      "pt": "Dança",
       "zh-hant": "舞蹈",
       "zh": "舞蹈"
     },
@@ -6451,6 +6830,7 @@
       "it": "Equitazione",
       "jp": "乗馬",
       "kr": "승마",
+      "pt": "Equitação",
       "zh-hant": "馬術",
       "zh": "马术"
     },
@@ -6468,6 +6848,7 @@
       "it": "Calcio",
       "jp": "サッカー",
       "kr": "미식축구",
+      "pt": "Futebol Americano",
       "zh-hant": "橄欖球",
       "zh": "橄榄球"
     },
@@ -6485,6 +6866,7 @@
       "it": "Golf",
       "jp": "ゴルフ",
       "kr": "골프",
+      "pt": "Golfe",
       "zh-hant": "高爾夫",
       "zh": "高尔夫"
     },
@@ -6502,6 +6884,7 @@
       "it": "Poligoni",
       "jp": "射撃場",
       "kr": "사격장",
+      "pt": "Campos de Tiro",
       "zh-hant": "射擊場",
       "zh": "射击场"
     },
@@ -6519,6 +6902,7 @@
       "it": "Ginnastica",
       "jp": "体操",
       "kr": "체조",
+      "pt": "Ginástica",
       "zh-hant": "體操",
       "zh": "体操"
     },
@@ -6536,6 +6920,7 @@
       "it": "Palestre",
       "jp": "ジムやフィットネス センター",
       "kr": "체육관 및 헬스장",
+      "pt": "Ginásios e Centros de Fitness",
       "zh-hant": "健身房和健身中心",
       "zh": "健身房和健身中心"
     },
@@ -6553,6 +6938,7 @@
       "it": "Hockey",
       "jp": "ホッケー",
       "kr": "하키",
+      "pt": "Hóquei",
       "zh-hant": "曲棍球",
       "zh": "曲棍球"
     },
@@ -6570,6 +6956,7 @@
       "it": "All'aperto",
       "jp": "アウトドア",
       "kr": "야외",
+      "pt": "Ar Livre",
       "zh-hant": "戶外活動",
       "zh": "户外活动"
     },
@@ -6587,6 +6974,7 @@
       "it": "Campeggi",
       "jp": "キャンプ場とRVパーク",
       "kr": "캠프장 및 RV 파크",
+      "pt": "Parques de Campismo e de Caravanas",
       "zh-hant": "戶外露營地和房車營地",
       "zh": "户外露营地和房车营地"
     },
@@ -6604,6 +6992,7 @@
       "it": "Escursioni",
       "jp": "ハイキング",
       "kr": "등산",
+      "pt": "Caminhadas",
       "zh-hant": "徒步旅行",
       "zh": "徒步旅行"
     },
@@ -6621,6 +7010,7 @@
       "it": "Mongolfiere",
       "jp": "熱気球",
       "kr": "열기구",
+      "pt": "Balões de Ar Quente",
       "zh-hant": "熱氣球",
       "zh": "热气球"
     },
@@ -6638,6 +7028,7 @@
       "it": "Caccia e Pesca",
       "jp": "狩猟や釣り",
       "kr": "사냥과 낚시",
+      "pt": "Caça e Pesca",
       "zh-hant": "狩獵和釣魚",
       "zh": "狩猎和钓鱼"
     },
@@ -6655,6 +7046,7 @@
       "it": "Arrampicata Da Roccia",
       "jp": "ロック クライミング",
       "kr": "암벽 등반",
+      "pt": "Escalada",
       "zh-hant": "攀巖",
       "zh": "攀岩"
     },
@@ -6672,6 +7064,7 @@
       "it": "Paracadutismo",
       "jp": "スカイ ダイビング",
       "kr": "스카이 다이빙",
+      "pt": "Pára-quedismo",
       "zh-hant": "跳傘",
       "zh": "跳伞"
     },
@@ -6689,6 +7082,7 @@
       "it": "Paintball",
       "jp": "ペイント ボール",
       "kr": "서바이벌",
+      "pt": "Paintball",
       "zh-hant": "迷彩漆彈",
       "zh": "迷彩漆彈"
     },
@@ -6706,6 +7100,7 @@
       "it": "Personal Trainer",
       "jp": "パーソナル トレーナー",
       "kr": "개인 트레이너",
+      "pt": "Treinadores Pessoais",
       "zh-hant": "私人教練",
       "zh": "私人教练"
     },
@@ -6723,6 +7118,7 @@
       "it": "Piste Da Corsa",
       "jp": "レース トラック",
       "kr": "육상 경주",
+      "pt": "Pistas de Corrida",
       "zh-hant": "賽道",
       "zh": "赛道"
     },
@@ -6740,6 +7136,7 @@
       "it": "Sport Con Racchette",
       "jp": "ラケット スポーツ",
       "kr": "라켓 스포츠",
+      "pt": "Desportos de Raquete",
       "zh-hant": "球拍運動",
       "zh": "球拍运动"
     },
@@ -6757,6 +7154,7 @@
       "it": "Racquetball",
       "jp": "ラケットボール",
       "kr": "라켓볼",
+      "pt": "Raquetebol",
       "zh-hant": "壁球",
       "zh": "壁球"
     },
@@ -6774,6 +7172,7 @@
       "it": "Tennis",
       "jp": "テニス",
       "kr": "테니스",
+      "pt": "Ténis",
       "zh-hant": "網球",
       "zh": "网球"
     },
@@ -6791,6 +7190,7 @@
       "it": "Centri di Ricreazione",
       "jp": "レクリエーション センター",
       "kr": "레크리에이션 센터",
+      "pt": "Centros Recreativos",
       "zh-hant": "活動中心",
       "zh": "活动中心"
     },
@@ -6808,6 +7208,7 @@
       "it": "Corsa",
       "jp": "マラソン、ジョギング",
       "kr": "달리기",
+      "pt": "Corrida",
       "zh-hant": "跑步",
       "zh": "跑步"
     },
@@ -6825,6 +7226,7 @@
       "it": "Pattinaggio",
       "jp": "スケート",
       "kr": "스케이트",
+      "pt": "Patinagem",
       "zh-hant": "滑冰",
       "zh": "滑冰"
     },
@@ -6842,6 +7244,7 @@
       "it": "Sport Invernali",
       "jp": "スノースポーツ",
       "kr": "겨울 스포츠",
+      "pt": "Desportos de Inverno",
       "zh-hant": "冰雪運動",
       "zh": "冰雪运动"
     },
@@ -6859,6 +7262,7 @@
       "it": "Calcio",
       "jp": "サッカー",
       "kr": "축구",
+      "pt": "Futebol",
       "zh-hant": "足球",
       "zh": "足球"
     },
@@ -6876,6 +7280,7 @@
       "it": "Club Sportivi",
       "jp": "スポーツ クラブ",
       "kr": "스포츠 클럽",
+      "pt": "Clubes Desportivos",
       "zh-hant": "體育俱樂部",
       "zh": "体育俱乐部"
     },
@@ -6893,6 +7298,7 @@
       "it": "Stadi e Arene",
       "jp": "スタジアムやアリーナ",
       "kr": "경기장 및 투기장",
+      "pt": "Estádios e Recintos Desportivos",
       "zh-hant": "體育場和競技場",
       "zh": "体育场和竞技场"
     },
@@ -6910,6 +7316,7 @@
       "it": "Piscine",
       "jp": "プール",
       "kr": "수영장",
+      "pt": "Piscinas",
       "zh-hant": "遊泳池",
       "zh": "游泳池"
     },
@@ -6927,6 +7334,7 @@
       "it": "Sport Acquatici",
       "jp": "ウォーター スポーツ",
       "kr": "수상 스포츠",
+      "pt": "Desportos Aquáticos",
       "zh-hant": "水上運動",
       "zh": "水上运动"
     },
@@ -6944,6 +7352,7 @@
       "it": "Canottaggio",
       "jp": "ボート",
       "kr": "보트",
+      "pt": "Passeios de Barco",
       "zh-hant": "劃船",
       "zh": "划船"
     },
@@ -6961,6 +7370,7 @@
       "it": "Canoe e Kayak",
       "jp": "カヌー、カヤック",
       "kr": "카누 및 카약",
+      "pt": "Canoas e Kayaks",
       "zh-hant": "獨木舟和皮劃艇",
       "zh": "独木舟和皮划艇"
     },
@@ -6978,6 +7388,7 @@
       "it": "Rafting",
       "jp": "ラフティング",
       "kr": "래프팅",
+      "pt": "Rafting",
       "zh-hant": "漂流",
       "zh": "漂流"
     },
@@ -6995,6 +7406,7 @@
       "it": "Immersioni Subacquee",
       "jp": "スキューバ ダイビング",
       "kr": "스쿠버 다이빙",
+      "pt": "Mergulho",
       "zh-hant": "潛水",
       "zh": "潜水"
     },
@@ -7012,6 +7424,7 @@
       "it": "Nuoto",
       "jp": "水泳",
       "kr": "수영",
+      "pt": "Natação",
       "zh-hant": "遊泳",
       "zh": "游泳"
     },
@@ -7029,6 +7442,7 @@
       "it": "Yoga e Pilates",
       "jp": "ヨガ、ピラティス",
       "kr": "요가 필라테스",
+      "pt": "Yoga e Pilates",
       "zh-hant": "瑜伽和普拉提",
       "zh": "瑜伽和普拉提"
     },
@@ -7046,6 +7460,7 @@
       "it": "Trasporto",
       "jp": "交通",
       "kr": "교통",
+      "pt": "Transporte",
       "zh-hant": "交通",
       "zh": "交通"
     },
@@ -7063,6 +7478,7 @@
       "it": "Companie Aeree e Servizi di Aviazione",
       "jp": "航空と航空サービス",
       "kr": "항공사 및 항공 서비스",
+      "pt": "Companhias Aéreas e Serviços de Aviação",
       "zh-hant": "航空公司和航空服務",
       "zh": "航空公司和航空服务"
     },
@@ -7080,6 +7496,7 @@
       "it": "Benzinai",
       "jp": "ガソリン スタンド",
       "kr": "주유소",
+      "pt": "Postos de Combustível",
       "zh-hant": "加油站",
       "zh": "加油站"
     },
@@ -7097,6 +7514,7 @@
       "it": "Parcheggi",
       "jp": "駐車場",
       "kr": "주차장",
+      "pt": "Estacionamento",
       "zh-hant": "停車場",
       "zh": "停车场"
     },
@@ -7114,6 +7532,7 @@
       "it": "Servizi di Trasporto Pubblico",
       "jp": "公共交通サービス",
       "kr": "대중교통",
+      "pt": "Serviços de Transporte Público",
       "zh-hant": "公共交通",
       "zh": "公共交通"
     },
@@ -7131,6 +7550,7 @@
       "it": "Taxi e Servizi di Auto",
       "jp": "タクシーおよびハイヤー",
       "kr": "택시와 차량 서비스",
+      "pt": "Serviços de Automóveis e Táxi",
       "zh-hant": "出租車和租車服務",
       "zh": "出租车和租车服务"
     },
@@ -7148,6 +7568,7 @@
       "it": "Noleggio Auto e Furgoni",
       "jp": "車とトラックのレンタル",
       "kr": "자동차 및 트럭 렌트",
+      "pt": "Aluguer de Carros e Camiões",
       "zh-hant": "汽車和卡車租賃",
       "zh": "汽车和卡车租赁"
     },
@@ -7165,6 +7586,7 @@
       "it": "Bus Charter",
       "jp": "貸切バス",
       "kr": "전세 버스",
+      "pt": "Autocarros de Serviço Ocasional",
       "zh-hant": "旅遊巴士",
       "zh": "旅游巴士"
     },
@@ -7182,6 +7604,7 @@
       "it": "Limousine e Autisti",
       "jp": "リムジンと運転手",
       "kr": "리무진과 운전기사",
+      "pt": "Limusinas e Motoristas",
       "zh-hant": "豪華轎車和司機",
       "zh": "豪华轿车和司机"
     },
@@ -7199,6 +7622,7 @@
       "it": "Centri di Trasporto",
       "jp": "ハブ",
       "kr": "교통 중심지",
+      "pt": "Estações de Transporte",
       "zh-hant": "交通樞紐",
       "zh": "交通枢纽"
     },
@@ -7216,6 +7640,7 @@
       "it": "Aeroporti",
       "jp": "空港",
       "kr": "공항",
+      "pt": "Aeroportos",
       "zh-hant": "機場",
       "zh": "机场"
     },
@@ -7233,6 +7658,7 @@
       "it": "Stazioni Degli Autobus",
       "jp": "バス駅",
       "kr": "버스 정류장",
+      "pt": "Paragens de Autocarro",
       "zh-hant": "公交車站",
       "zh": "公交车站"
     },
@@ -7250,6 +7676,7 @@
       "it": "Eliporti",
       "jp": "ヘリポート",
       "kr": "헬리콥터 발착장",
+      "pt": "Heliportos",
       "zh-hant": "直升機停機坪",
       "zh": "直升机停机坪"
     },
@@ -7267,6 +7694,7 @@
       "it": "Porte",
       "jp": "ポート",
       "kr": "항구",
+      "pt": "Portos",
       "zh-hant": "碼頭",
       "zh": "码头"
     },
@@ -7284,6 +7712,7 @@
       "it": "Stazioni Ferroviarie",
       "jp": "鉄道駅",
       "kr": "기차역",
+      "pt": "Estações Ferroviárias",
       "zh-hant": "軌道交通",
       "zh": "轨道交通"
     },
@@ -7301,6 +7730,7 @@
       "it": "Viaggi",
       "jp": "旅行",
       "kr": "여행",
+      "pt": "Viagem",
       "zh-hant": "旅遊",
       "zh": "旅游"
     },
@@ -7318,6 +7748,7 @@
       "it": "Crociere",
       "jp": "クルーズ",
       "kr": "여객선",
+      "pt": "Cruzeiros",
       "zh-hant": "郵輪",
       "zh": "邮轮"
     },
@@ -7335,6 +7766,7 @@
       "it": "Campeggi",
       "jp": "宿泊",
       "kr": "숙박",
+      "pt": "Alojamento",
       "zh-hant": "住宿",
       "zh": "住宿"
     },
@@ -7352,6 +7784,7 @@
       "it": "Bed And Breakfast",
       "jp": "ベッド &ブレックファースト",
       "kr": "침대 및 아침식사",
+      "pt": "Bed and Breakfast",
       "zh-hant": "家庭式旅館",
       "zh": "家庭式旅馆"
     },
@@ -7369,6 +7802,7 @@
       "it": "Cottage e Cabin",
       "jp": "コテージやキャビン",
       "kr": "펜션",
+      "pt": "Chalés e Cabanas",
       "zh-hant": "度假別墅和小木屋",
       "zh": "度假别墅和小木屋"
     },
@@ -7386,6 +7820,7 @@
       "it": "Ostelli",
       "jp": "ホステル",
       "kr": "호스텔",
+      "pt": "Albergues",
       "zh-hant": "招待所",
       "zh": "招待所"
     },
@@ -7403,6 +7838,7 @@
       "it": "Alberghi e Motel",
       "jp": "のホテルやモーテル",
       "kr": "호텔 및 모텔",
+      "pt": "Hotéis e Motéis",
       "zh-hant": "酒店和汽車旅館",
       "zh": "酒店和汽车旅馆"
     },
@@ -7420,6 +7856,7 @@
       "it": "Foresterie e Case Vacanze",
       "jp": "ロッジ、貸別荘",
       "kr": "별장 및 휴가지 임대",
+      "pt": "Albergues e Alugueres para Férias",
       "zh-hant": "短期出租屋",
       "zh": "短期出租屋"
     },
@@ -7437,6 +7874,7 @@
       "it": "Resort",
       "jp": "リゾート",
       "kr": "리조트",
+      "pt": "Resorts",
       "zh-hant": "度假村",
       "zh": "度假村"
     },
@@ -7454,6 +7892,7 @@
       "it": "Informazioni e Servizi Turistiche",
       "jp": "観光情報とサービス",
       "kr": "관광 정보 및 서비스",
+      "pt": "Serviços de Informação Turística",
       "zh-hant": "旅客信息咨詢和服務",
       "zh": "旅客信息咨询和服务"
     },
@@ -7471,6 +7910,7 @@
       "it": "Agenzie di Viaggio e Tour Operator",
       "jp": "旅行代理店やツアー オペレーター",
       "kr": "가이드 및 여행사",
+      "pt": "Agências de Viagens e Guias Turísticos",
       "zh-hant": "旅行社",
       "zh": "旅行社"
     },
