@@ -2530,7 +2530,7 @@
       "zh-hant": "百貨商店和折扣店",
       "zh": "百货商店和折扣店",
       "it": "Grandi Magazzini",
-      "pt": "Lojas de Departamento"
+      "pt": "Grandes Armazéns"
     },
     "parents": [
       "123"
@@ -2638,7 +2638,7 @@
       "zh-hant": "跳蚤市場",
       "zh": "跳蚤市场",
       "it": "Mercati Delle Pulci",
-      "pt": "Mercados"
+      "pt": "Feiras da Ladra"
     },
     "parents": [
       "123"
@@ -3538,7 +3538,7 @@
       "zh-hant": "市場調研和咨詢",
       "zh": "市场调研和咨询",
       "it": "Ricerche Di Mercato e Consulenza",
-      "pt": "Estudo e Consultoria de Mercado"
+      "pt": "Estudos e Consultoria de Mercado"
     },
     "parents": [
       "193"
@@ -3574,7 +3574,7 @@
       "zh-hant": "平面、電視、廣播和戶外廣告",
       "zh": "平面、电视、广播和户外广告",
       "it": "Pubblicità In Stampa, Tv, Radio, e Cartelloni Pubblicitari",
-      "pt": "Publicidade Impressa, para Televisão, Rádio e Outdoors"
+      "pt": "Publicidade impressa, para Televisão, Rádio e Outdoors"
     },
     "parents": [
       "193"
